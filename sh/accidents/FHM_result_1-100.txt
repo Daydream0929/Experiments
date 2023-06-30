@@ -1,0 +1,21 @@
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2143 ms
+ Memory ~ 568.9784545898438 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4872 ms
+ Memory ~ 360.46802520751953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 2
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 5109 ms
+ Memory ~ 1161.9206085205078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 3
