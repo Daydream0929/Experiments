@@ -1,0 +1,9 @@
+accidents_utility_spmf      196141636
+BMS_utility_spmf            108457438
+chainstore_utility_spmf      2609973588
+chess_utility_spmf      2156659
+connect_utility_spmf      50999845
+foodmart_utility_spmf      12011023
+mushroom_utility_spmf      3413720
+pumsb_utility_spmf      66445076
+retail_utility_spmf      14910915
