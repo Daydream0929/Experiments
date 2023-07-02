@@ -1,0 +1,686 @@
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 40.248329162597656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 1
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 159 ms
+ Memory ~ 39.45741271972656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.99
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 142 ms
+ Memory ~ 40.67524719238281 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.98
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 40.820838928222656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.97
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 39.189453125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.96
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 39.58064270019531 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.95
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 40.281280517578125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.94
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.260353088378906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.93
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 40.64543914794922 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.92
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 149 ms
+ Memory ~ 40.039512634277344 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.91
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.8182373046875 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.9
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 40.23218536376953 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.89
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 39.62715148925781 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.88
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 41.437904357910156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.87
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 38.77466583251953 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.86
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 39.087989807128906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.85
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 154 ms
+ Memory ~ 37.91358947753906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.84
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 141 ms
+ Memory ~ 39.05707550048828 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.83
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 149 ms
+ Memory ~ 40.247467041015625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.82
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.62799072265625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.81
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 152 ms
+ Memory ~ 39.219261169433594 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.8
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 39.05702209472656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.79
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 39.61195373535156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.78
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 142 ms
+ Memory ~ 40.26306915283203 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.77
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 153 ms
+ Memory ~ 41.498939514160156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.76
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 37.246803283691406 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.75
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 149 ms
+ Memory ~ 41.45341491699219 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.74
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 40.232017517089844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.73
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 39.08868408203125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.72
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 39.49048614501953 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.71
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 140 ms
+ Memory ~ 39.056915283203125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.7
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 40.23130798339844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.69
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 40.818603515625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.68
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 39.08885955810547 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.67
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 153 ms
+ Memory ~ 39.56507110595703 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.66
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 39.20652770996094 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.65
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 156 ms
+ Memory ~ 40.2786865234375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.64
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 40.277862548828125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.63
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 40.549400329589844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.62
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 40.27839660644531 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.61
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 40.26298522949219 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.6
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 41.45366668701172 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.59
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 39.62725830078125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.58
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.23374938964844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.57
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 40.247352600097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.56
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 153 ms
+ Memory ~ 40.24761199951172 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.55
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 40.27783966064453 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.54
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 149 ms
+ Memory ~ 40.234031677246094 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.53
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 39.611968994140625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.52
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.247474670410156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.51
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 38.82157897949219 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.5
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 39.62751770019531 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.49
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 142 ms
+ Memory ~ 40.278419494628906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.48
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 40.247406005859375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.47
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 38.790138244628906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.46
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 142 ms
+ Memory ~ 38.46825408935547 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.45
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 40.833106994628906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.44
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 38.852378845214844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.43
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.75538635253906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.42
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 150 ms
+ Memory ~ 39.610939025878906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.41
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 176 ms
+ Memory ~ 37.944976806640625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.4
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 40.03925323486328 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.39
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 181 ms
+ Memory ~ 37.882591247558594 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.38
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 153 ms
+ Memory ~ 40.05548095703125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.37
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 39.42549133300781 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.36
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.26317596435547 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.35
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 40.23167419433594 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.34
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 141 ms
+ Memory ~ 38.85222625732422 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.33
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 179 ms
+ Memory ~ 37.866363525390625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.32
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 40.27919006347656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.31
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 39.646087646484375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.3
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 168 ms
+ Memory ~ 37.324615478515625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.29
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 152 ms
+ Memory ~ 40.247894287109375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.28
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 175 ms
+ Memory ~ 37.86651611328125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.27
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 41.43812561035156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.26
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 39.072662353515625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.25
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 149 ms
+ Memory ~ 41.43815612792969 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.24
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 161 ms
+ Memory ~ 40.61328125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.23
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 149 ms
+ Memory ~ 37.959320068359375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.22
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 39.674339294433594 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.21
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 42.65937805175781 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.2
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 41.680213928222656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.19
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 42.85841369628906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.18
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 154 ms
+ Memory ~ 42.268959045410156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.17
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 171 ms
+ Memory ~ 42.2535400390625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.16
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 150 ms
+ Memory ~ 42.222259521484375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.15
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 141 ms
+ Memory ~ 42.27100372314453 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.14
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.890647888183594 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.13
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 42.84205627441406 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.12
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 161 ms
+ Memory ~ 43.478233337402344 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.11
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 155 ms
+ Memory ~ 44.145851135253906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.1
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 156 ms
+ Memory ~ 44.81953430175781 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.09
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 158 ms
+ Memory ~ 44.588279724121094 MB
+ High-utility itemsets count : 1
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.08
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 46.06676483154297 MB
+ High-utility itemsets count : 1
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.07
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 152 ms
+ Memory ~ 47.277870178222656 MB
+ High-utility itemsets count : 1
+ Join count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.06
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 169 ms
+ Memory ~ 48.52021026611328 MB
+ High-utility itemsets count : 1
+ Join count : 13
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.05
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 164 ms
+ Memory ~ 50.27995300292969 MB
+ High-utility itemsets count : 2
+ Join count : 27
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.04
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 197 ms
+ Memory ~ 54.05388641357422 MB
+ High-utility itemsets count : 2
+ Join count : 448
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.03
