@@ -1,0 +1,161 @@
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2120 ms
+ Memory ~ 505.42356872558594 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 1
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 3382 ms
+ Memory ~ 463.4574203491211 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 2
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 3661 ms
+ Memory ~ 546.6663589477539 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 3
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 9432 ms
+ Memory ~ 679.2197418212891 MB
+ High-utility itemsets count : 0
+ Join count : 410
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 4
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 19794 ms
+ Memory ~ 845.8785247802734 MB
+ High-utility itemsets count : 0
+ Join count : 927
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 5
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 43156 ms
+ Memory ~ 710.2916107177734 MB
+ High-utility itemsets count : 0
+ Join count : 2459
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 6
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 101314 ms
+ Memory ~ 877.2311096191406 MB
+ High-utility itemsets count : 28
+ Join count : 6803
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 7
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 209296 ms
+ Memory ~ 1135.2606201171875 MB
+ High-utility itemsets count : 371
+ Join count : 14836
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 8
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 461008 ms
+ Memory ~ 784.4235610961914 MB
+ High-utility itemsets count : 2098
+ Join count : 31431
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 9
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 883632 ms
+ Memory ~ 1646.1107788085938 MB
+ High-utility itemsets count : 7479
+ Join count : 63269
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 10
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1405126 ms
+ Memory ~ 1056.3247451782227 MB
+ High-utility itemsets count : 20004
+ Join count : 116640
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 11
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2102434 ms
+ Memory ~ 1225.1721725463867 MB
+ High-utility itemsets count : 43827
+ Join count : 198170
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 12
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 3268389 ms
+ Memory ~ 2320.6719131469727 MB
+ High-utility itemsets count : 83297
+ Join count : 312775
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 13
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 4738989 ms
+ Memory ~ 1244.0673599243164 MB
+ High-utility itemsets count : 142766
+ Join count : 468678
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 14
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 6396407 ms
+ Memory ~ 1426.3341522216797 MB
+ High-utility itemsets count : 226312
+ Join count : 667614
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 15
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 8760186 ms
+ Memory ~ 2022.5256729125977 MB
+ High-utility itemsets count : 338207
+ Join count : 919398
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 16
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 10047249 ms
+ Memory ~ 1684.9345092773438 MB
+ High-utility itemsets count : 482120
+ Join count : 1227990
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 17
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 12778739 ms
+ Memory ~ 981.9806289672852 MB
+ High-utility itemsets count : 662768
+ Join count : 1602648
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 18
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 16793139 ms
+ Memory ~ 914.3789596557617 MB
+ High-utility itemsets count : 884240
+ Join count : 2046212
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 19
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 17978870 ms
+ Memory ~ 3241.145149230957 MB
+ High-utility itemsets count : 1150796
+ Join count : 2566349
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 20
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 20901574 ms
+ Memory ~ 2333.386894226074 MB
+ High-utility itemsets count : 1466440
+ Join count : 3169619
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 21
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 25468810 ms
+ Memory ~ 2532.2266235351562 MB
+ High-utility itemsets count : 1836040
+ Join count : 3855874
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 22
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 27840380 ms
+ Memory ~ 2401.259910583496 MB
+ High-utility itemsets count : 2263087
+ Join count : 4635025
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 23

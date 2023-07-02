@@ -123,7 +123,7 @@ for input_file in "${input_data_files[@]}"; do
     threshold=`expr 196141636 / $arg`
 
     # 构造输出结果文件路径
-    output_result_path="../../data/output/${file_name%.*}/HUIMiner_${arg}%_result.txt"
+    output_result_path="../../data/output/${file_name%.*}/HUIMiner_${arg}_result.txt"
 
     # 运行.jar文件并传递参数
     java -jar ../../Algorithms/HUIMiner/HUIMiner.jar "$input_file" "$output_result_path" "$threshold"
