@@ -110,6 +110,9 @@ args=(
   # 添加更多的参数
 )
 
+total_utility=196141636
+
+
 # 遍历输入数据文件路径
 for input_file in "${input_data_files[@]}"; do
   # 提取文件名和扩展名
@@ -119,10 +122,11 @@ for input_file in "${input_data_files[@]}"; do
   # 遍历参数
   for arg in "${args[@]}"; do
     # threshold
-    threshold=`expr 196141636 / $arg`
+    threshold=$(echo "$total_utility * $arg"|bc)
+    threshold=${threshold%.*}
 
     # 构造输出结果文件路径
-    output_result_path="../../data/output/${file_name%.*}/mHUIMiner_${arg}%_result.txt"
+    output_result_path="../../data/output/${file_name%.*}/mHUIMiner_${arg}_result.txt"
 
     # 运行.jar文件并传递参数
     java -jar ../../Algorithms/mHUIMiner/mHUIMiner.jar "$input_file" "$output_result_path" "$threshold"
