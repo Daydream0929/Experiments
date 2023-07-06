@@ -1,0 +1,539 @@
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 600 ms
+ Memory ~ 201.2008285522461 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 1
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 657 ms
+ Memory ~ 158.40731811523438 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.99
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 666 ms
+ Memory ~ 47.15489959716797 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.98
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 667 ms
+ Memory ~ 58.47484588623047 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.97
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 669 ms
+ Memory ~ 193.41333770751953 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.96
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 689 ms
+ Memory ~ 205.51793670654297 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.95
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 688 ms
+ Memory ~ 205.53726196289062 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.94
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 695 ms
+ Memory ~ 212.52881622314453 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.93
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 695 ms
+ Memory ~ 216.7779541015625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.92
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 701 ms
+ Memory ~ 218.65699768066406 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.91
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 771 ms
+ Memory ~ 221.53308868408203 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.9
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 740 ms
+ Memory ~ 230.60800170898438 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.89
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 731 ms
+ Memory ~ 230.5364990234375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.88
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 718 ms
+ Memory ~ 236.3808135986328 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.87
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 710 ms
+ Memory ~ 236.7416229248047 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.86
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 762 ms
+ Memory ~ 242.36196899414062 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.85
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 740 ms
+ Memory ~ 242.27176666259766 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.84
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 747 ms
+ Memory ~ 127.30327606201172 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.83
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 736 ms
+ Memory ~ 248.4633560180664 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.82
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 742 ms
+ Memory ~ 139.0413818359375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.81
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 732 ms
+ Memory ~ 254.69215393066406 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.8
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 743 ms
+ Memory ~ 250.86863708496094 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.79
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 768 ms
+ Memory ~ 141.6780548095703 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.78
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 780 ms
+ Memory ~ 142.01689910888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.77
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 751 ms
+ Memory ~ 255.17235565185547 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.76
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 788 ms
+ Memory ~ 260.99401092529297 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.75
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 775 ms
+ Memory ~ 261.35717010498047 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.74
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 758 ms
+ Memory ~ 260.78197479248047 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.73
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 795 ms
+ Memory ~ 260.0473937988281 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.72
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 826 ms
+ Memory ~ 266.47888946533203 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.71
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 827 ms
+ Memory ~ 143.74701690673828 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.7
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 828 ms
+ Memory ~ 262.64341735839844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.69
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 811 ms
+ Memory ~ 144.49610900878906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.68
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 774 ms
+ Memory ~ 267.8782424926758 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.67
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 797 ms
+ Memory ~ 263.17039489746094 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.66
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 803 ms
+ Memory ~ 267.9425582885742 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.65
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 805 ms
+ Memory ~ 273.4857864379883 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.64
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 826 ms
+ Memory ~ 272.4245071411133 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.63
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 809 ms
+ Memory ~ 273.40760803222656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.62
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 818 ms
+ Memory ~ 166.13719177246094 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.61
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 839 ms
+ Memory ~ 72.39173126220703 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.6
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 829 ms
+ Memory ~ 72.54891204833984 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.59
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 833 ms
+ Memory ~ 72.59811401367188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.58
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 819 ms
+ Memory ~ 72.68663787841797 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.57
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 841 ms
+ Memory ~ 176.72399139404297 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.56
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 832 ms
+ Memory ~ 73.6128158569336 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.55
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 862 ms
+ Memory ~ 73.03276062011719 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.54
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 830 ms
+ Memory ~ 73.64349365234375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.53
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 844 ms
+ Memory ~ 73.50761413574219 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.52
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 944 ms
+ Memory ~ 130.14655303955078 MB
+ High-utility itemsets count : 0
+ Join count : 28
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.51
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1317 ms
+ Memory ~ 345.9319839477539 MB
+ High-utility itemsets count : 0
+ Join count : 140
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.5
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1574 ms
+ Memory ~ 431.0540542602539 MB
+ High-utility itemsets count : 0
+ Join count : 193
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.49
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1844 ms
+ Memory ~ 115.07940673828125 MB
+ High-utility itemsets count : 0
+ Join count : 265
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.48
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2222 ms
+ Memory ~ 259.75113677978516 MB
+ High-utility itemsets count : 0
+ Join count : 351
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.47
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2378 ms
+ Memory ~ 403.3212203979492 MB
+ High-utility itemsets count : 0
+ Join count : 440
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.46
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2257 ms
+ Memory ~ 404.03882598876953 MB
+ High-utility itemsets count : 0
+ Join count : 440
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.45
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2494 ms
+ Memory ~ 497.28820037841797 MB
+ High-utility itemsets count : 0
+ Join count : 480
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.44
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2707 ms
+ Memory ~ 160.32388305664062 MB
+ High-utility itemsets count : 0
+ Join count : 559
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.43
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 3953 ms
+ Memory ~ 575.9404602050781 MB
+ High-utility itemsets count : 0
+ Join count : 720
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.42
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 4995 ms
+ Memory ~ 228.25394439697266 MB
+ High-utility itemsets count : 0
+ Join count : 930
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.41
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 7356 ms
+ Memory ~ 737.4229431152344 MB
+ High-utility itemsets count : 0
+ Join count : 1319
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.4
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 9718 ms
+ Memory ~ 252.90972900390625 MB
+ High-utility itemsets count : 0
+ Join count : 1833
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.39
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 11123 ms
+ Memory ~ 721.5561065673828 MB
+ High-utility itemsets count : 0
+ Join count : 2270
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.38
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 15764 ms
+ Memory ~ 987.0015029907227 MB
+ High-utility itemsets count : 0
+ Join count : 3159
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.37
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 24748 ms
+ Memory ~ 313.8263931274414 MB
+ High-utility itemsets count : 0
+ Join count : 4525
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.36
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 37680 ms
+ Memory ~ 529.7208480834961 MB
+ High-utility itemsets count : 0
+ Join count : 6886
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.35
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 56211 ms
+ Memory ~ 537.6658477783203 MB
+ High-utility itemsets count : 0
+ Join count : 10603
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.34
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 85762 ms
+ Memory ~ 1027.8715896606445 MB
+ High-utility itemsets count : 9
+ Join count : 16970
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.33
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 166637 ms
+ Memory ~ 346.4841079711914 MB
+ High-utility itemsets count : 171
+ Join count : 31855
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.32
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 336473 ms
+ Memory ~ 884.5759735107422 MB
+ High-utility itemsets count : 1144
+ Join count : 67159
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.31
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 784649 ms
+ Memory ~ 1040.6554794311523 MB
+ High-utility itemsets count : 5270
+ Join count : 151541
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.3
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1581153 ms
+ Memory ~ 1123.9220504760742 MB
+ High-utility itemsets count : 18285
+ Join count : 330507
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.29
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 3330944 ms
+ Memory ~ 1131.0685577392578 MB
+ High-utility itemsets count : 52052
+ Join count : 683087
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.28
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 6070014 ms
+ Memory ~ 889.9066162109375 MB
+ High-utility itemsets count : 131582
+ Join count : 1346747
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.27
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 11877022 ms
+ Memory ~ 1152.0061721801758 MB
+ High-utility itemsets count : 303014
+ Join count : 2533048
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.26
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 20027717 ms
+ Memory ~ 1640.8388977050781 MB
+ High-utility itemsets count : 653361
+ Join count : 4577428
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.25
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 34503591 ms
+ Memory ~ 1901.7059478759766 MB
+ High-utility itemsets count : 1325419
+ Join count : 7956319
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.24

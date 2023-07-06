@@ -1,0 +1,700 @@
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 181 ms
+ Memory ~ 8.806068420410156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 1
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 176 ms
+ Memory ~ 8.743820190429688 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.99
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 177 ms
+ Memory ~ 7.6156005859375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.98
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 178 ms
+ Memory ~ 9.236045837402344 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.97
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 184 ms
+ Memory ~ 9.190116882324219 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.96
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 181 ms
+ Memory ~ 9.220748901367188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.95
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 178 ms
+ Memory ~ 8.092887878417969 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.94
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 190 ms
+ Memory ~ 9.190353393554688 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.93
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 187 ms
+ Memory ~ 9.351272583007812 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.92
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 9.425346374511719 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.91
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 192 ms
+ Memory ~ 9.41363525390625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.9
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 191 ms
+ Memory ~ 9.335350036621094 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.89
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 178 ms
+ Memory ~ 8.285232543945312 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.88
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 189 ms
+ Memory ~ 9.351249694824219 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.87
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 175 ms
+ Memory ~ 9.366561889648438 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.86
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 182 ms
+ Memory ~ 8.253799438476562 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.85
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 177 ms
+ Memory ~ 9.531204223632812 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.84
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 179 ms
+ Memory ~ 9.573959350585938 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.83
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 179 ms
+ Memory ~ 9.511520385742188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.82
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 183 ms
+ Memory ~ 10.666213989257812 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.81
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 168 ms
+ Memory ~ 8.410026550292969 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.8
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 184 ms
+ Memory ~ 10.735877990722656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.79
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 9.523109436035156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.78
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 185 ms
+ Memory ~ 9.538406372070312 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.77
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 187 ms
+ Memory ~ 10.713180541992188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.76
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 138 ms
+ Memory ~ 10.6904296875 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.75
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 184 ms
+ Memory ~ 9.484260559082031 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.74
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 188 ms
+ Memory ~ 9.476158142089844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.73
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 191 ms
+ Memory ~ 8.477134704589844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.72
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 186 ms
+ Memory ~ 10.830314636230469 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.71
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 136 ms
+ Memory ~ 10.970680236816406 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.7
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 183 ms
+ Memory ~ 10.95721435546875 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.69
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 185 ms
+ Memory ~ 10.837989807128906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.68
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 190 ms
+ Memory ~ 10.869354248046875 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.67
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 10.845436096191406 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.66
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 187 ms
+ Memory ~ 10.839118957519531 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.65
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 187 ms
+ Memory ~ 10.924354553222656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.64
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 10.909660339355469 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.63
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 190 ms
+ Memory ~ 11.096153259277344 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.62
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 11.053985595703125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.61
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 192 ms
+ Memory ~ 11.0660400390625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.6
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 11.085708618164062 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.59
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 178 ms
+ Memory ~ 11.09320068359375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.58
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 138 ms
+ Memory ~ 11.108528137207031 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.57
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 11.223526000976562 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.56
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 185 ms
+ Memory ~ 11.257064819335938 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.55
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 187 ms
+ Memory ~ 11.248573303222656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.54
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 203 ms
+ Memory ~ 12.642189025878906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.53
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 196 ms
+ Memory ~ 12.6409912109375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.52
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 194 ms
+ Memory ~ 12.706123352050781 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.51
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 197 ms
+ Memory ~ 12.858070373535156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.5
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 12.983512878417969 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.49
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 211 ms
+ Memory ~ 12.923370361328125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.48
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 208 ms
+ Memory ~ 12.908309936523438 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.47
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 197 ms
+ Memory ~ 13.087745666503906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.46
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 201 ms
+ Memory ~ 14.332382202148438 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.45
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 181 ms
+ Memory ~ 14.300987243652344 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.44
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 194 ms
+ Memory ~ 14.398574829101562 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.43
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 150 ms
+ Memory ~ 14.421806335449219 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.42
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 208 ms
+ Memory ~ 14.549476623535156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.41
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 193 ms
+ Memory ~ 14.562812805175781 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.4
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 13.710350036621094 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.39
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 205 ms
+ Memory ~ 15.88665771484375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.38
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 194 ms
+ Memory ~ 14.671485900878906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.37
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 196 ms
+ Memory ~ 15.844619750976562 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.36
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 203 ms
+ Memory ~ 14.695899963378906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.35
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 195 ms
+ Memory ~ 15.832023620605469 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.34
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 180 ms
+ Memory ~ 15.806266784667969 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.33
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 167 ms
+ Memory ~ 15.972084045410156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.32
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 188 ms
+ Memory ~ 15.969871520996094 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.31
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 196 ms
+ Memory ~ 15.900978088378906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.3
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 185 ms
+ Memory ~ 15.926216125488281 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.29
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 209 ms
+ Memory ~ 16.110084533691406 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.28
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 215 ms
+ Memory ~ 19.661399841308594 MB
+ High-utility itemsets count : 0
+ Join count : 39
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.27
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 194 ms
+ Memory ~ 19.738250732421875 MB
+ High-utility itemsets count : 0
+ Join count : 39
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.26
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 205 ms
+ Memory ~ 23.314651489257812 MB
+ High-utility itemsets count : 0
+ Join count : 77
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.25
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 231 ms
+ Memory ~ 27.04930877685547 MB
+ High-utility itemsets count : 0
+ Join count : 119
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.24
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 225 ms
+ Memory ~ 27.10321044921875 MB
+ High-utility itemsets count : 0
+ Join count : 119
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.23
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 237 ms
+ Memory ~ 30.785491943359375 MB
+ High-utility itemsets count : 0
+ Join count : 147
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.22
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 268 ms
+ Memory ~ 33.23463439941406 MB
+ High-utility itemsets count : 0
+ Join count : 202
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.21
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 276 ms
+ Memory ~ 39.00695037841797 MB
+ High-utility itemsets count : 0
+ Join count : 304
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.2
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 280 ms
+ Memory ~ 47.516151428222656 MB
+ High-utility itemsets count : 0
+ Join count : 504
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.19
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 316 ms
+ Memory ~ 63.048118591308594 MB
+ High-utility itemsets count : 0
+ Join count : 802
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.18
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 392 ms
+ Memory ~ 17.63287353515625 MB
+ High-utility itemsets count : 0
+ Join count : 1034
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.17
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 415 ms
+ Memory ~ 34.2095947265625 MB
+ High-utility itemsets count : 21
+ Join count : 1362
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.16
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 519 ms
+ Memory ~ 65.16629791259766 MB
+ High-utility itemsets count : 88
+ Join count : 1865
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.15
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 723 ms
+ Memory ~ 19.00415802001953 MB
+ High-utility itemsets count : 415
+ Join count : 3004
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.14
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1131 ms
+ Memory ~ 45.55006408691406 MB
+ High-utility itemsets count : 1152
+ Join count : 5826
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.13
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1770 ms
+ Memory ~ 254.85385131835938 MB
+ High-utility itemsets count : 2726
+ Join count : 9259
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.12
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2527 ms
+ Memory ~ 134.11900329589844 MB
+ High-utility itemsets count : 5801
+ Join count : 15473
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.11
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 3823 ms
+ Memory ~ 26.24078369140625 MB
+ High-utility itemsets count : 9594
+ Join count : 21883
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.1
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 5217 ms
+ Memory ~ 81.32758331298828 MB
+ High-utility itemsets count : 15318
+ Join count : 31149
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.09
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 6803 ms
+ Memory ~ 316.2799301147461 MB
+ High-utility itemsets count : 22919
+ Join count : 47051
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.08
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 10750 ms
+ Memory ~ 123.00558471679688 MB
+ High-utility itemsets count : 39171
+ Join count : 84652
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.07
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 17095 ms
+ Memory ~ 126.001708984375 MB
+ High-utility itemsets count : 83844
+ Join count : 167288
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.06
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 28036 ms
+ Memory ~ 88.78467559814453 MB
+ High-utility itemsets count : 175387
+ Join count : 317119
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.05
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 51339 ms
+ Memory ~ 126.50798797607422 MB
+ High-utility itemsets count : 374613
+ Join count : 666364
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.04
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 89203 ms
+ Memory ~ 113.38836669921875 MB
+ High-utility itemsets count : 977990
+ Join count : 1602977
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.03
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 169959 ms
+ Memory ~ 46.31843566894531 MB
+ High-utility itemsets count : 3295468
+ Join count : 5234125
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.02
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 447858 ms
+ Memory ~ 38.4703369140625 MB
+ High-utility itemsets count : 19583932
+ Join count : 28536386
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.01

@@ -1,0 +1,588 @@
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 807 ms
+ Memory ~ 325.1301574707031 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 1
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 832 ms
+ Memory ~ 269.02050018310547 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.99
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 819 ms
+ Memory ~ 290.8062973022461 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.98
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 869 ms
+ Memory ~ 322.1379623413086 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.97
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 911 ms
+ Memory ~ 344.1654357910156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.96
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 885 ms
+ Memory ~ 484.27103424072266 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.95
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 868 ms
+ Memory ~ 373.68990325927734 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.94
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 863 ms
+ Memory ~ 375.9222106933594 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.93
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 888 ms
+ Memory ~ 385.6934356689453 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.92
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 933 ms
+ Memory ~ 425.99996185302734 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.91
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 945 ms
+ Memory ~ 417.0577087402344 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.9
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 964 ms
+ Memory ~ 418.97991943359375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.89
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 951 ms
+ Memory ~ 426.7223892211914 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.88
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 937 ms
+ Memory ~ 428.82181549072266 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.87
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 953 ms
+ Memory ~ 436.8511047363281 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.86
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1044 ms
+ Memory ~ 458.168212890625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.85
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 993 ms
+ Memory ~ 458.56494903564453 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.84
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 961 ms
+ Memory ~ 457.8867645263672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.83
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 982 ms
+ Memory ~ 467.4328842163086 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.82
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1019 ms
+ Memory ~ 467.50135040283203 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.81
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1009 ms
+ Memory ~ 117.74479675292969 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.8
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 973 ms
+ Memory ~ 458.4704360961914 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.79
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 998 ms
+ Memory ~ 467.40108489990234 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.78
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1021 ms
+ Memory ~ 128.28643798828125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.77
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1035 ms
+ Memory ~ 477.1318359375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.76
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1105 ms
+ Memory ~ 151.35427856445312 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.75
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1067 ms
+ Memory ~ 512.5040130615234 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.74
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1016 ms
+ Memory ~ 512.4666900634766 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.73
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1080 ms
+ Memory ~ 182.17089080810547 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.72
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1072 ms
+ Memory ~ 62.810157775878906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.71
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1059 ms
+ Memory ~ 212.31533813476562 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.7
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1096 ms
+ Memory ~ 83.53778839111328 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.69
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1116 ms
+ Memory ~ 84.36344146728516 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.68
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1053 ms
+ Memory ~ 83.24187469482422 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.67
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1068 ms
+ Memory ~ 93.592529296875 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.66
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1089 ms
+ Memory ~ 93.8606948852539 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.65
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1083 ms
+ Memory ~ 94.18684387207031 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.64
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1098 ms
+ Memory ~ 93.76775360107422 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.63
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1080 ms
+ Memory ~ 213.28849029541016 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.62
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1091 ms
+ Memory ~ 93.6578598022461 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.61
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1081 ms
+ Memory ~ 114.15673065185547 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.6
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1107 ms
+ Memory ~ 135.68250274658203 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.59
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1125 ms
+ Memory ~ 135.76950073242188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.58
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1082 ms
+ Memory ~ 135.5596160888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.57
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1089 ms
+ Memory ~ 135.62944793701172 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.56
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1106 ms
+ Memory ~ 156.56873321533203 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.55
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1116 ms
+ Memory ~ 156.79017639160156 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.54
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1119 ms
+ Memory ~ 178.29320526123047 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.53
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1128 ms
+ Memory ~ 178.80328369140625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.52
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1105 ms
+ Memory ~ 314.8528289794922 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.51
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1170 ms
+ Memory ~ 199.53937530517578 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.5
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1153 ms
+ Memory ~ 221.10101318359375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.49
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1211 ms
+ Memory ~ 231.4000473022461 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.48
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1160 ms
+ Memory ~ 231.35719299316406 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.47
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1173 ms
+ Memory ~ 231.09839630126953 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.46
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1162 ms
+ Memory ~ 357.1189422607422 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.45
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1211 ms
+ Memory ~ 283.5279846191406 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.44
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1218 ms
+ Memory ~ 283.9933395385742 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.43
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1217 ms
+ Memory ~ 284.1396942138672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.42
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1208 ms
+ Memory ~ 284.2569885253906 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.41
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1193 ms
+ Memory ~ 417.4976577758789 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.4
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1211 ms
+ Memory ~ 426.7277297973633 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.39
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1269 ms
+ Memory ~ 314.277099609375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.38
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1263 ms
+ Memory ~ 325.46178436279297 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.37
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1234 ms
+ Memory ~ 446.6292190551758 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.36
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1221 ms
+ Memory ~ 325.0006561279297 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.35
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1271 ms
+ Memory ~ 344.5275650024414 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.34
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1268 ms
+ Memory ~ 465.8133850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.33
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2489 ms
+ Memory ~ 358.9577407836914 MB
+ High-utility itemsets count : 0
+ Join count : 510
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.32
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 4903 ms
+ Memory ~ 345.4365463256836 MB
+ High-utility itemsets count : 0
+ Join count : 1509
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.31
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 8903 ms
+ Memory ~ 1058.89794921875 MB
+ High-utility itemsets count : 0
+ Join count : 3399
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.3
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 12302 ms
+ Memory ~ 1207.198341369629 MB
+ High-utility itemsets count : 0
+ Join count : 4879
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.29
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 17390 ms
+ Memory ~ 854.4127197265625 MB
+ High-utility itemsets count : 0
+ Join count : 7312
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.28
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 31646 ms
+ Memory ~ 477.26151275634766 MB
+ High-utility itemsets count : 0
+ Join count : 15753
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.27
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 61926 ms
+ Memory ~ 1170.9787216186523 MB
+ High-utility itemsets count : 0
+ Join count : 28211
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.26
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 108968 ms
+ Memory ~ 963.5688095092773 MB
+ High-utility itemsets count : 0
+ Join count : 54599
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.25
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 231111 ms
+ Memory ~ 867.3876724243164 MB
+ High-utility itemsets count : 0
+ Join count : 118581
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.24
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 405152 ms
+ Memory ~ 628.4722900390625 MB
+ High-utility itemsets count : 0
+ Join count : 235116
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.23
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 832314 ms
+ Memory ~ 1155.4279708862305 MB
+ High-utility itemsets count : 0
+ Join count : 395813
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.22
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1139941 ms
+ Memory ~ 1220.4484024047852 MB
+ High-utility itemsets count : 0
+ Join count : 568537
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.21
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1633380 ms
+ Memory ~ 992.1745910644531 MB
+ High-utility itemsets count : 0
+ Join count : 757761
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.2
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2396343 ms
+ Memory ~ 1415.3018264770508 MB
+ High-utility itemsets count : 0
+ Join count : 1107550
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.19
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 3847681 ms
+ Memory ~ 437.5107116699219 MB
+ High-utility itemsets count : 292
+ Join count : 2297396
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.18
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 19198705 ms
+ Memory ~ 677.2859802246094 MB
+ High-utility itemsets count : 7164
+ Join count : 14724003
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.17

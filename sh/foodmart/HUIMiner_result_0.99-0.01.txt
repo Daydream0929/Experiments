@@ -1,0 +1,700 @@
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 67 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 1
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.99
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36066436767578 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.98
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 69 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.97
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.96
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.36072540283203 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.95
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.94
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360626220703125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.93
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.36071014404297 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.92
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360687255859375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.91
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 17.360748291015625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.9
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.361366271972656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.89
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.88
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 71 ms
+ Memory ~ 17.36058807373047 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.87
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 68 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.86
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360626220703125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.85
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 17.360687255859375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.84
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 17.36066436767578 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.83
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360618591308594 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.82
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 69 ms
+ Memory ~ 17.360641479492188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.81
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 67 ms
+ Memory ~ 17.360580444335938 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.8
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.36077117919922 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.79
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.36072540283203 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.78
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 71 ms
+ Memory ~ 17.360702514648438 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.77
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 17.36077880859375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.76
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 67 ms
+ Memory ~ 17.360671997070312 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.75
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 70 ms
+ Memory ~ 17.360809326171875 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.74
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360763549804688 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.73
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 73 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.72
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.71
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.36065673828125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.7
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36060333251953 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.69
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360610961914062 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.68
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.67
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 16.12065887451172 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.66
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 68 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.65
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 17.360763549804688 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.64
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.361412048339844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.63
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.36065673828125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.62
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 16.12055206298828 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.61
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 68 ms
+ Memory ~ 17.36060333251953 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.6
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.59
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360824584960938 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.58
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 70 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.57
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 69 ms
+ Memory ~ 17.36072540283203 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.56
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360679626464844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.55
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360641479492188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.54
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.360679626464844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.53
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.52
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.51
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.360557556152344 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.5
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360855102539062 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.49
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360610961914062 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.48
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360679626464844 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.47
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36060333251953 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.46
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.361373901367188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.45
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360626220703125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.44
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360572814941406 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.43
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36065673828125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.42
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.36066436767578 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.41
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.36058807373047 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.4
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 69 ms
+ Memory ~ 17.360641479492188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.39
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 75 ms
+ Memory ~ 17.36071014404297 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.38
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 71 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.37
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360641479492188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.36
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.35
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 71 ms
+ Memory ~ 16.12059783935547 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.34
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.3607177734375 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.33
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.32
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360618591308594 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.31
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360641479492188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.3
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 68 ms
+ Memory ~ 17.360618591308594 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.29
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360671997070312 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.28
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360595703125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.27
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.36072540283203 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.26
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 16.120590209960938 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.25
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.361434936523438 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.24
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 73 ms
+ Memory ~ 17.361404418945312 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.23
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.36058807373047 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.22
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 79 ms
+ Memory ~ 17.360748291015625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.21
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360549926757812 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.2
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.19
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 69 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.18
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360824584960938 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.17
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360610961914062 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.16
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.361297607421875 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.15
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.14
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 16.120651245117188 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.13
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.36058807373047 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.12
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360610961914062 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.11
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360595703125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.1
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.36058807373047 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.09
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.08
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 16.120590209960938 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.07
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 78 ms
+ Memory ~ 17.360626220703125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.06
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 17.360801696777344 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.05
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 73 ms
+ Memory ~ 17.36065673828125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.04
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360748291015625 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.03
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360626220703125 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.02
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Join count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.01
