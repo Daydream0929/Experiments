@@ -126,10 +126,10 @@ for input_file in "${input_data_files[@]}"; do
     threshold=${threshold%.*}
 
     # 构造输出结果文件路径
-    output_result_path="../../data/output/${file_name%.*}/pumsb_${arg}_result.txt"
+    output_result_path="../../data/output/${file_name%.*}/FHM_${arg}_result.txt"
 
     # 运行.jar文件并传递参数
-    java -jar ../../Algorithms/pumsb/pumsb.jar "$input_file" "$output_result_path" "$threshold"
+    java -jar ../../Algorithms/FHM/FHM.jar "$input_file" "$output_result_path" "$threshold"
   
     echo "Finished processing $input_file with arg $arg"
 
