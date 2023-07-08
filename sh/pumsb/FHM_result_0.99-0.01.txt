@@ -1,0 +1,588 @@
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 790 ms
+ Memory ~ 333.3896713256836 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 846 ms
+ Memory ~ 316.4888381958008 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.99
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 876 ms
+ Memory ~ 368.4006576538086 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.98
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 930 ms
+ Memory ~ 447.6654357910156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.97
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 986 ms
+ Memory ~ 25.88404083251953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.96
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 996 ms
+ Memory ~ 105.12489318847656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.95
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1082 ms
+ Memory ~ 184.9961929321289 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.94
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1030 ms
+ Memory ~ 309.0814208984375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.93
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1067 ms
+ Memory ~ 234.1315155029297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.92
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1164 ms
+ Memory ~ 442.45526123046875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.91
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1201 ms
+ Memory ~ 441.61767578125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.9
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1175 ms
+ Memory ~ 432.71142578125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.89
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1206 ms
+ Memory ~ 492.52100372314453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.88
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1177 ms
+ Memory ~ 491.7489547729492 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.87
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1199 ms
+ Memory ~ 62.107177734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.86
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1261 ms
+ Memory ~ 171.2427215576172 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.85
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1316 ms
+ Memory ~ 234.54961395263672 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.84
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1296 ms
+ Memory ~ 234.6683120727539 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.83
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1308 ms
+ Memory ~ 234.175537109375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.82
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1261 ms
+ Memory ~ 234.75533294677734 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.81
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1252 ms
+ Memory ~ 360.2907180786133 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.8
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1282 ms
+ Memory ~ 360.08422088623047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.79
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1265 ms
+ Memory ~ 417.9123001098633 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.78
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1293 ms
+ Memory ~ 281.45174407958984 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.77
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1332 ms
+ Memory ~ 344.300537109375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.76
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1458 ms
+ Memory ~ 501.79444122314453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.75
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1471 ms
+ Memory ~ 627.8810043334961 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.74
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1548 ms
+ Memory ~ 748.6627197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.73
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1576 ms
+ Memory ~ 827.2575531005859 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.72
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1666 ms
+ Memory ~ 767.4050064086914 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.71
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1716 ms
+ Memory ~ 123.76927947998047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.7
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1799 ms
+ Memory ~ 1007.5907363891602 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.69
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1793 ms
+ Memory ~ 124.60440063476562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.68
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1747 ms
+ Memory ~ 124.55955505371094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.67
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1746 ms
+ Memory ~ 187.7181625366211 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.66
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1804 ms
+ Memory ~ 186.648681640625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.65
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1771 ms
+ Memory ~ 187.7323226928711 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.64
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1776 ms
+ Memory ~ 187.40347290039062 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.63
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1784 ms
+ Memory ~ 187.14786529541016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.62
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1761 ms
+ Memory ~ 187.60362243652344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.61
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1807 ms
+ Memory ~ 296.3685607910156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.6
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1920 ms
+ Memory ~ 468.75182342529297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.59
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1914 ms
+ Memory ~ 468.3867874145508 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.58
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1882 ms
+ Memory ~ 468.3602828979492 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.57
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1859 ms
+ Memory ~ 468.3392868041992 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.56
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2059 ms
+ Memory ~ 572.1361770629883 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.55
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1943 ms
+ Memory ~ 640.805419921875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.54
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2185 ms
+ Memory ~ 806.2954483032227 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.53
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2125 ms
+ Memory ~ 806.9547500610352 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.52
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2163 ms
+ Memory ~ 208.19254302978516 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.51
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2209 ms
+ Memory ~ 332.3833694458008 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.5
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2297 ms
+ Memory ~ 557.8403930664062 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.49
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2330 ms
+ Memory ~ 658.3025436401367 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.48
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2336 ms
+ Memory ~ 658.696174621582 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.47
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2328 ms
+ Memory ~ 659.4285354614258 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.46
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2479 ms
+ Memory ~ 532.5197067260742 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.45
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2907 ms
+ Memory ~ 1306.4446105957031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.44
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2738 ms
+ Memory ~ 1030.015266418457 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.43
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2778 ms
+ Memory ~ 1306.6172256469727 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.42
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2757 ms
+ Memory ~ 1028.8484649658203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.41
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2876 ms
+ Memory ~ 99.88957977294922 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.4
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2928 ms
+ Memory ~ 225.35020446777344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.39
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2995 ms
+ Memory ~ 426.0795135498047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.38
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3082 ms
+ Memory ~ 225.55023193359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.37
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3085 ms
+ Memory ~ 275.55010986328125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.36
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3042 ms
+ Memory ~ 525.973991394043 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.35
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3173 ms
+ Memory ~ 675.4454879760742 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.34
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3188 ms
+ Memory ~ 724.6581192016602 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.33
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3490 ms
+ Memory ~ 876.5494079589844 MB
+ High-utility itemsets count : 0
+ Candidate count : 199
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.32
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4190 ms
+ Memory ~ 898.9383010864258 MB
+ High-utility itemsets count : 0
+ Candidate count : 561
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.31
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 5787 ms
+ Memory ~ 1328.0578079223633 MB
+ High-utility itemsets count : 0
+ Candidate count : 1396
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.3
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 8105 ms
+ Memory ~ 1328.0907363891602 MB
+ High-utility itemsets count : 0
+ Candidate count : 2350
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.29
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 11090 ms
+ Memory ~ 1355.5494003295898 MB
+ High-utility itemsets count : 0
+ Candidate count : 3817
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.28
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 18227 ms
+ Memory ~ 1394.9665756225586 MB
+ High-utility itemsets count : 0
+ Candidate count : 7124
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.27
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 31926 ms
+ Memory ~ 1418.8958892822266 MB
+ High-utility itemsets count : 0
+ Candidate count : 12755
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.26
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 52900 ms
+ Memory ~ 1355.2629470825195 MB
+ High-utility itemsets count : 0
+ Candidate count : 24797
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.25
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 116326 ms
+ Memory ~ 1389.3292617797852 MB
+ High-utility itemsets count : 0
+ Candidate count : 51869
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.24
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 216556 ms
+ Memory ~ 1487.1582336425781 MB
+ High-utility itemsets count : 0
+ Candidate count : 109268
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.23
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 393525 ms
+ Memory ~ 1493.1349639892578 MB
+ High-utility itemsets count : 0
+ Candidate count : 203126
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.22
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 618615 ms
+ Memory ~ 1547.6379776000977 MB
+ High-utility itemsets count : 0
+ Candidate count : 320828
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.21
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 886268 ms
+ Memory ~ 1593.418846130371 MB
+ High-utility itemsets count : 0
+ Candidate count : 466572
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.2
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1605077 ms
+ Memory ~ 1651.5106201171875 MB
+ High-utility itemsets count : 0
+ Candidate count : 719655
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.19
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2917933 ms
+ Memory ~ 1745.3563919067383 MB
+ High-utility itemsets count : 292
+ Candidate count : 1523438
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.18
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 12000276 ms
+ Memory ~ 2417.1749114990234 MB
+ High-utility itemsets count : 7164
+ Candidate count : 8290264
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.17

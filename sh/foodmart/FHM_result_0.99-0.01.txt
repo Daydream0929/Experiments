@@ -1,0 +1,700 @@
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 68 ms
+ Memory ~ 17.360618591308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.36078643798828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.99
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 18.600784301757812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.98
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360679626464844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.97
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 67 ms
+ Memory ~ 17.360610961914062 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.96
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 68 ms
+ Memory ~ 17.360733032226562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.95
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360755920410156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.94
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360748291015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.93
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360809326171875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.92
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 69 ms
+ Memory ~ 17.36066436767578 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.91
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360748291015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.9
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 18.600784301757812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.89
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.360626220703125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.88
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 70 ms
+ Memory ~ 17.36052703857422 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.87
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360748291015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.86
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 67 ms
+ Memory ~ 17.360610961914062 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.85
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 67 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.84
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360679626464844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.83
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360763549804688 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.82
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360794067382812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.81
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360679626464844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.8
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 73 ms
+ Memory ~ 17.36065673828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.79
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.3607177734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.78
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 67 ms
+ Memory ~ 18.6007080078125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.77
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.36071014404297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.76
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.36071014404297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.75
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 61 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.74
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 74 ms
+ Memory ~ 17.360641479492188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.73
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 77 ms
+ Memory ~ 17.36065673828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.72
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 69 ms
+ Memory ~ 17.360733032226562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.71
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 70 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.7
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360633850097656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.69
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360748291015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.68
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 68 ms
+ Memory ~ 17.360580444335938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.67
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360755920410156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.66
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360595703125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.65
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36064910888672 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.64
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.36054229736328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.63
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360504150390625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.62
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.360618591308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.61
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.36065673828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.6
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36066436767578 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.59
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 18.600685119628906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.58
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 70 ms
+ Memory ~ 17.360549926757812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.57
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360763549804688 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.56
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 67 ms
+ Memory ~ 17.36071014404297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.55
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 71 ms
+ Memory ~ 17.360687255859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.54
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360733032226562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.53
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 75 ms
+ Memory ~ 16.12054443359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.52
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.36077880859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.51
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36065673828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.5
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 81 ms
+ Memory ~ 17.360641479492188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.49
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360755920410156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.48
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 74 ms
+ Memory ~ 17.360702514648438 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.47
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36066436767578 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.46
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36060333251953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.45
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 17.360618591308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.44
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 17.360618591308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.43
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360626220703125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.42
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 70 ms
+ Memory ~ 17.36078643798828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.41
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36058807373047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.4
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 69 ms
+ Memory ~ 17.360679626464844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.39
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360748291015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.38
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360618591308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.37
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.36078643798828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.36
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360618591308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.35
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.36071014404297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.34
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.36060333251953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.33
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.3607177734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.32
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.360641479492188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.31
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36058807373047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.3
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 70 ms
+ Memory ~ 17.360511779785156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.29
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.36071014404297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.28
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360733032226562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.27
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 18.600807189941406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.26
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.36071014404297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.25
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360687255859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.24
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36060333251953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.23
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 70 ms
+ Memory ~ 17.360755920410156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.22
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360755920410156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.21
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360755920410156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.2
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360641479492188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.19
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 17.360679626464844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.18
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 63 ms
+ Memory ~ 17.360733032226562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.17
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 17.360733032226562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.16
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 16.12054443359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.15
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.36077880859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.14
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 68 ms
+ Memory ~ 16.12079620361328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.13
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66 ms
+ Memory ~ 18.600784301757812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.12
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 68 ms
+ Memory ~ 17.360671997070312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.11
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360687255859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 67 ms
+ Memory ~ 17.36060333251953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.09
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360641479492188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.08
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 68 ms
+ Memory ~ 17.36090850830078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.07
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 69 ms
+ Memory ~ 17.36078643798828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.06
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 72 ms
+ Memory ~ 17.360740661621094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.05
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 62 ms
+ Memory ~ 17.360740661621094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.04
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 64 ms
+ Memory ~ 17.360687255859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.03
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 67 ms
+ Memory ~ 18.600784301757812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.02
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 65 ms
+ Memory ~ 17.360671997070312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.01

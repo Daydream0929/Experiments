@@ -1,0 +1,630 @@
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 132 ms
+ Memory ~ 44.64244079589844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 135 ms
+ Memory ~ 45.882957458496094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.99
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 141 ms
+ Memory ~ 45.88409423828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.98
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 138 ms
+ Memory ~ 45.88294982910156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.97
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 113 ms
+ Memory ~ 47.12220764160156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.96
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 165 ms
+ Memory ~ 48.36450958251953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.95
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 175 ms
+ Memory ~ 50.84434509277344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.94
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 175 ms
+ Memory ~ 50.842552185058594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.93
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 181 ms
+ Memory ~ 52.093841552734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.92
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 182 ms
+ Memory ~ 50.85374450683594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.91
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 182 ms
+ Memory ~ 52.09300231933594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.9
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 54.57713317871094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.89
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 199 ms
+ Memory ~ 54.576171875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.88
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 199 ms
+ Memory ~ 54.576934814453125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.87
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 209 ms
+ Memory ~ 54.56383514404297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.86
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 127 ms
+ Memory ~ 54.574134826660156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.85
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 202 ms
+ Memory ~ 54.56333923339844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.84
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 203 ms
+ Memory ~ 55.80333709716797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.83
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 132 ms
+ Memory ~ 57.043296813964844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.82
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 203 ms
+ Memory ~ 57.042884826660156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.81
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 177 ms
+ Memory ~ 58.28230285644531 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.8
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 206 ms
+ Memory ~ 60.7725830078125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.79
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 185 ms
+ Memory ~ 62.0 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.78
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 184 ms
+ Memory ~ 62.0 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.77
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 190 ms
+ Memory ~ 62.0 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.76
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 201 ms
+ Memory ~ 62.0 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.75
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 194 ms
+ Memory ~ 5.139739990234375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.74
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 195 ms
+ Memory ~ 5.124420166015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.73
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 157 ms
+ Memory ~ 5.15509033203125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.72
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 223 ms
+ Memory ~ 5.140296936035156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.71
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 215 ms
+ Memory ~ 5.1094512939453125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.7
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 197 ms
+ Memory ~ 7.519447326660156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.69
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 201 ms
+ Memory ~ 8.757942199707031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.68
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 201 ms
+ Memory ~ 9.916122436523438 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.67
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 162 ms
+ Memory ~ 11.075019836425781 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.66
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 205 ms
+ Memory ~ 11.090660095214844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.65
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 174 ms
+ Memory ~ 12.328208923339844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.64
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 12.250038146972656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.63
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 169 ms
+ Memory ~ 17.254539489746094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.62
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 176 ms
+ Memory ~ 18.228614807128906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.61
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 18.228073120117188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.6
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 213 ms
+ Memory ~ 18.186203002929688 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.59
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 214 ms
+ Memory ~ 18.19678497314453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.58
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 180 ms
+ Memory ~ 19.423660278320312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.57
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 204 ms
+ Memory ~ 19.423194885253906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.56
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 203 ms
+ Memory ~ 19.454910278320312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.55
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 206 ms
+ Memory ~ 19.423194885253906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.54
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 205 ms
+ Memory ~ 21.83545684814453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.53
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 216 ms
+ Memory ~ 21.789146423339844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.52
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 206 ms
+ Memory ~ 21.819900512695312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.51
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 204 ms
+ Memory ~ 21.81995391845703 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.5
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 218 ms
+ Memory ~ 21.80475616455078 MB
+ High-utility itemsets count : 0
+ Candidate count : 13
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.49
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 226 ms
+ Memory ~ 22.96350860595703 MB
+ High-utility itemsets count : 0
+ Candidate count : 14
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.48
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 212 ms
+ Memory ~ 23.028350830078125 MB
+ High-utility itemsets count : 0
+ Candidate count : 15
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.47
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 271 ms
+ Memory ~ 27.702110290527344 MB
+ High-utility itemsets count : 0
+ Candidate count : 71
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.46
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 242 ms
+ Memory ~ 31.346412658691406 MB
+ High-utility itemsets count : 0
+ Candidate count : 125
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.45
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 255 ms
+ Memory ~ 37.30107116699219 MB
+ High-utility itemsets count : 0
+ Candidate count : 262
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.44
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 255 ms
+ Memory ~ 44.536102294921875 MB
+ High-utility itemsets count : 0
+ Candidate count : 348
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.43
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 270 ms
+ Memory ~ 52.75537109375 MB
+ High-utility itemsets count : 0
+ Candidate count : 441
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.42
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 327 ms
+ Memory ~ 56.355613708496094 MB
+ High-utility itemsets count : 0
+ Candidate count : 457
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.41
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 293 ms
+ Memory ~ 62.337181091308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 526
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.4
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 310 ms
+ Memory ~ 64.75784301757812 MB
+ High-utility itemsets count : 0
+ Candidate count : 538
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.39
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 328 ms
+ Memory ~ 64.21638488769531 MB
+ High-utility itemsets count : 0
+ Candidate count : 731
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.38
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 365 ms
+ Memory ~ 63.492042541503906 MB
+ High-utility itemsets count : 0
+ Candidate count : 871
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.37
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 393 ms
+ Memory ~ 64.6239242553711 MB
+ High-utility itemsets count : 0
+ Candidate count : 1152
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.36
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 496 ms
+ Memory ~ 67.40875244140625 MB
+ High-utility itemsets count : 0
+ Candidate count : 1569
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.35
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 629 ms
+ Memory ~ 66.46072387695312 MB
+ High-utility itemsets count : 0
+ Candidate count : 2193
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.34
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 799 ms
+ Memory ~ 68.58790588378906 MB
+ High-utility itemsets count : 0
+ Candidate count : 2897
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.33
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1073 ms
+ Memory ~ 129.28346252441406 MB
+ High-utility itemsets count : 0
+ Candidate count : 4027
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.32
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1504 ms
+ Memory ~ 130.345947265625 MB
+ High-utility itemsets count : 12
+ Candidate count : 6241
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.31
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2230 ms
+ Memory ~ 254.86996459960938 MB
+ High-utility itemsets count : 68
+ Candidate count : 9889
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.3
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3213 ms
+ Memory ~ 255.24441528320312 MB
+ High-utility itemsets count : 176
+ Candidate count : 14937
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.29
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4719 ms
+ Memory ~ 502.6350402832031 MB
+ High-utility itemsets count : 493
+ Candidate count : 23367
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.28
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 6914 ms
+ Memory ~ 502.67637634277344 MB
+ High-utility itemsets count : 1246
+ Candidate count : 37550
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.27
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 11899 ms
+ Memory ~ 506.1239776611328 MB
+ High-utility itemsets count : 2875
+ Candidate count : 60290
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.26
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 18603 ms
+ Memory ~ 502.5413055419922 MB
+ High-utility itemsets count : 6406
+ Candidate count : 100511
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.25
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 30613 ms
+ Memory ~ 505.18125915527344 MB
+ High-utility itemsets count : 14122
+ Candidate count : 166677
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.24
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 47919 ms
+ Memory ~ 501.7726364135742 MB
+ High-utility itemsets count : 28432
+ Candidate count : 272008
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.23
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 74009 ms
+ Memory ~ 506.20679473876953 MB
+ High-utility itemsets count : 56398
+ Candidate count : 438242
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.22
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 116474 ms
+ Memory ~ 503.0873489379883 MB
+ High-utility itemsets count : 104240
+ Candidate count : 693745
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.21
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 154463 ms
+ Memory ~ 504.74920654296875 MB
+ High-utility itemsets count : 189808
+ Candidate count : 1101606
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.2
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 245176 ms
+ Memory ~ 280.7635040283203 MB
+ High-utility itemsets count : 332258
+ Candidate count : 1725632
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.19
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 385453 ms
+ Memory ~ 292.63558197021484 MB
+ High-utility itemsets count : 580044
+ Candidate count : 2732961
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.18
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 602415 ms
+ Memory ~ 301.45023345947266 MB
+ High-utility itemsets count : 996308
+ Candidate count : 4342285
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.17
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 880507 ms
+ Memory ~ 503.3030090332031 MB
+ High-utility itemsets count : 1724222
+ Candidate count : 7000848
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.16
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1331429 ms
+ Memory ~ 502.7918243408203 MB
+ High-utility itemsets count : 3006948
+ Candidate count : 11416002
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.15
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1928355 ms
+ Memory ~ 501.29827880859375 MB
+ High-utility itemsets count : 5299175
+ Candidate count : 18730397
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.14
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3079660 ms
+ Memory ~ 502.07398223876953 MB
+ High-utility itemsets count : 9437741
+ Candidate count : 30938484
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.13
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 5202118 ms
+ Memory ~ 503.8068313598633 MB
+ High-utility itemsets count : 16927941
+ Candidate count : 51551005
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.12
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 7230209 ms
+ Memory ~ 501.7919464111328 MB
+ High-utility itemsets count : 30707616
+ Candidate count : 87382854
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.11

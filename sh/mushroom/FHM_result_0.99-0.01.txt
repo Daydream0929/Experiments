@@ -1,0 +1,700 @@
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 172 ms
+ Memory ~ 9.93414306640625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 132 ms
+ Memory ~ 9.965621948242188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.99
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 184 ms
+ Memory ~ 9.980735778808594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.98
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 195 ms
+ Memory ~ 10.36492919921875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.97
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 186 ms
+ Memory ~ 11.586738586425781 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.96
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 193 ms
+ Memory ~ 10.411849975585938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.95
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 149 ms
+ Memory ~ 10.3179931640625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.94
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 194 ms
+ Memory ~ 10.363960266113281 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.93
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 11.691093444824219 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.92
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 211 ms
+ Memory ~ 11.679740905761719 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.91
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 192 ms
+ Memory ~ 11.743095397949219 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.9
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 212 ms
+ Memory ~ 11.632705688476562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.89
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 11.553749084472656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.88
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 199 ms
+ Memory ~ 11.722068786621094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.87
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 202 ms
+ Memory ~ 11.688919067382812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.86
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 199 ms
+ Memory ~ 11.608039855957031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.85
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 196 ms
+ Memory ~ 13.014732360839844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.84
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 197 ms
+ Memory ~ 13.060211181640625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.83
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 212 ms
+ Memory ~ 13.043418884277344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.82
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 197 ms
+ Memory ~ 12.967735290527344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.81
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 198 ms
+ Memory ~ 13.045684814453125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.8
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 189 ms
+ Memory ~ 12.936264038085938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.79
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 199 ms
+ Memory ~ 12.950958251953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.78
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 196 ms
+ Memory ~ 12.981002807617188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.77
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 198 ms
+ Memory ~ 13.038108825683594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.76
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 196 ms
+ Memory ~ 12.998756408691406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.75
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 211 ms
+ Memory ~ 13.038589477539062 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.74
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 202 ms
+ Memory ~ 12.936439514160156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.73
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 208 ms
+ Memory ~ 13.618019104003906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.72
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 210 ms
+ Memory ~ 14.322891235351562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.71
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 202 ms
+ Memory ~ 13.238357543945312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.7
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 14.346275329589844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.69
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 204 ms
+ Memory ~ 13.075950622558594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.68
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 13.070274353027344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.67
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 202 ms
+ Memory ~ 14.330154418945312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.66
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 213 ms
+ Memory ~ 14.236312866210938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.65
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 201 ms
+ Memory ~ 15.04833984375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.64
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 202 ms
+ Memory ~ 14.337631225585938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.63
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 158 ms
+ Memory ~ 15.623558044433594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.62
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 210 ms
+ Memory ~ 15.591941833496094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.61
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 220 ms
+ Memory ~ 15.639045715332031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.6
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 207 ms
+ Memory ~ 15.691413879394531 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.59
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 206 ms
+ Memory ~ 16.89075469970703 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.58
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 217 ms
+ Memory ~ 16.929489135742188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.57
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 206 ms
+ Memory ~ 18.769561767578125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.56
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 204 ms
+ Memory ~ 18.772064208984375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.55
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 18.764244079589844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.54
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 208 ms
+ Memory ~ 19.47613525390625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.53
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 209 ms
+ Memory ~ 19.530250549316406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.52
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 207 ms
+ Memory ~ 21.35517120361328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.51
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 160 ms
+ Memory ~ 23.81548309326172 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.5
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 217 ms
+ Memory ~ 25.061676025390625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.49
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 217 ms
+ Memory ~ 25.039581298828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.48
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 214 ms
+ Memory ~ 25.008270263671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.47
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 218 ms
+ Memory ~ 25.424659729003906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.46
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 228 ms
+ Memory ~ 26.890335083007812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.45
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 233 ms
+ Memory ~ 27.48023223876953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.44
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 225 ms
+ Memory ~ 29.248001098632812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.43
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 221 ms
+ Memory ~ 29.969947814941406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.42
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 239 ms
+ Memory ~ 31.73552703857422 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.41
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 225 ms
+ Memory ~ 33.62004089355469 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.4
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 256 ms
+ Memory ~ 34.80218505859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.39
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 238 ms
+ Memory ~ 34.69312286376953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.38
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 283 ms
+ Memory ~ 34.76280212402344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.37
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 218 ms
+ Memory ~ 34.830039978027344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.36
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 276 ms
+ Memory ~ 34.76835632324219 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.35
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 230 ms
+ Memory ~ 34.73773193359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.34
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 229 ms
+ Memory ~ 34.24486541748047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.33
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 192 ms
+ Memory ~ 35.93775177001953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.32
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 249 ms
+ Memory ~ 36.03565216064453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.31
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 231 ms
+ Memory ~ 35.936309814453125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.3
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 235 ms
+ Memory ~ 38.25457763671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.29
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 240 ms
+ Memory ~ 41.91847229003906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.28
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 245 ms
+ Memory ~ 44.95277404785156 MB
+ High-utility itemsets count : 0
+ Candidate count : 17
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.27
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 245 ms
+ Memory ~ 44.324867248535156 MB
+ High-utility itemsets count : 0
+ Candidate count : 19
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.26
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 215 ms
+ Memory ~ 47.954864501953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 36
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.25
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 276 ms
+ Memory ~ 51.55260467529297 MB
+ High-utility itemsets count : 0
+ Candidate count : 52
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.24
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 314 ms
+ Memory ~ 53.9345703125 MB
+ High-utility itemsets count : 0
+ Candidate count : 57
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.23
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 321 ms
+ Memory ~ 57.45591735839844 MB
+ High-utility itemsets count : 0
+ Candidate count : 85
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.22
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 304 ms
+ Memory ~ 58.73265838623047 MB
+ High-utility itemsets count : 0
+ Candidate count : 101
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.21
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 254 ms
+ Memory ~ 61.736122131347656 MB
+ High-utility itemsets count : 0
+ Candidate count : 133
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.2
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 326 ms
+ Memory ~ 64.58399963378906 MB
+ High-utility itemsets count : 0
+ Candidate count : 195
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.19
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 347 ms
+ Memory ~ 64.69589233398438 MB
+ High-utility itemsets count : 0
+ Candidate count : 339
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.18
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 364 ms
+ Memory ~ 64.55586242675781 MB
+ High-utility itemsets count : 0
+ Candidate count : 451
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.17
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 434 ms
+ Memory ~ 64.61713409423828 MB
+ High-utility itemsets count : 21
+ Candidate count : 728
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.16
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 470 ms
+ Memory ~ 75.01549530029297 MB
+ High-utility itemsets count : 88
+ Candidate count : 1161
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.15
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 821 ms
+ Memory ~ 71.71455383300781 MB
+ High-utility itemsets count : 415
+ Candidate count : 2281
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.14
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1044 ms
+ Memory ~ 133.58956909179688 MB
+ High-utility itemsets count : 1152
+ Candidate count : 4711
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.13
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1578 ms
+ Memory ~ 137.90017700195312 MB
+ High-utility itemsets count : 2726
+ Candidate count : 7911
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.12
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2734 ms
+ Memory ~ 255.83885955810547 MB
+ High-utility itemsets count : 5801
+ Candidate count : 13602
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.11
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3772 ms
+ Memory ~ 395.0598449707031 MB
+ High-utility itemsets count : 9594
+ Candidate count : 19506
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4852 ms
+ Memory ~ 505.49092864990234 MB
+ High-utility itemsets count : 15318
+ Candidate count : 27892
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.09
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 7439 ms
+ Memory ~ 505.79669189453125 MB
+ High-utility itemsets count : 22919
+ Candidate count : 41932
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.08
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 11354 ms
+ Memory ~ 505.12242889404297 MB
+ High-utility itemsets count : 39171
+ Candidate count : 76831
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.07
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 18623 ms
+ Memory ~ 502.85343170166016 MB
+ High-utility itemsets count : 83844
+ Candidate count : 154436
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.06
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 32858 ms
+ Memory ~ 504.0955581665039 MB
+ High-utility itemsets count : 175387
+ Candidate count : 292629
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.05
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 53975 ms
+ Memory ~ 505.5963592529297 MB
+ High-utility itemsets count : 374613
+ Candidate count : 610820
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.04
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 98610 ms
+ Memory ~ 503.6954879760742 MB
+ High-utility itemsets count : 977990
+ Candidate count : 1485261
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.03
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 218646 ms
+ Memory ~ 502.6727828979492 MB
+ High-utility itemsets count : 3295468
+ Candidate count : 4857656
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.02
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 492823 ms
+ Memory ~ 997.1557006835938 MB
+ High-utility itemsets count : 19583932
+ Candidate count : 26426826
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.01

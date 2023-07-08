@@ -1,0 +1,686 @@
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 41.48460388183594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 39.50359344482422 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.99
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 40.293861389160156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.98
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 40.00109100341797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.97
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 38.79609680175781 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.96
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 142 ms
+ Memory ~ 39.07262420654297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.95
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 39.119598388671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.94
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 141 ms
+ Memory ~ 40.262939453125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.93
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 39.05659484863281 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.92
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 149 ms
+ Memory ~ 39.64299774169922 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.91
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 142 ms
+ Memory ~ 38.851783752441406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.9
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 141 ms
+ Memory ~ 39.674041748046875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.89
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 40.325294494628906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.88
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 150 ms
+ Memory ~ 40.07695007324219 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.87
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 40.247283935546875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.86
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 141 ms
+ Memory ~ 39.45649719238281 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.85
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 39.84020233154297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.84
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 39.05882263183594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.83
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 38.2548828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.82
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 39.119178771972656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.81
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 141 ms
+ Memory ~ 40.309730529785156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.8
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 40.31010437011719 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.79
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.24732971191406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.78
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 40.280113220214844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.77
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 150 ms
+ Memory ~ 40.231781005859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.76
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 40.27909851074219 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.75
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 39.48822784423828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.74
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 40.247657775878906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.73
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 39.059112548828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.72
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 38.468505859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.71
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 40.23163604736328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.7
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.27873992919922 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.69
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 39.041259765625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.68
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 40.278594970703125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.67
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 173 ms
+ Memory ~ 36.69200134277344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.66
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 40.294281005859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.65
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 187 ms
+ Memory ~ 37.88202667236328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.64
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 142 ms
+ Memory ~ 38.45222473144531 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.63
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 39.056556701660156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.62
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 39.135719299316406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.61
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 179 ms
+ Memory ~ 37.27783203125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.6
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 39.08778381347656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.59
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 39.10302734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.58
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 39.05830383300781 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.57
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 40.27891540527344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.56
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.27864074707031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.55
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 38.87409210205078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.54
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 153 ms
+ Memory ~ 33.98146057128906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.53
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 40.64393615722656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.52
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 38.031593322753906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.51
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.24726104736328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.5
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 153 ms
+ Memory ~ 39.041473388671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.49
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 38.4677734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.48
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 39.05900573730469 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.47
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 38.452392578125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.46
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 40.26313781738281 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.45
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 38.85215759277344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.44
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 37.91321563720703 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.43
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 40.247161865234375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.42
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 158 ms
+ Memory ~ 37.85077667236328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.41
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 38.83647155761719 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.4
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 39.675079345703125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.39
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 40.24718475341797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.38
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 40.28092956542969 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.37
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 158 ms
+ Memory ~ 38.45198059082031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.36
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 37.899566650390625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.35
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 39.056480407714844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.34
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 152 ms
+ Memory ~ 40.28095245361328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.33
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 150 ms
+ Memory ~ 40.232696533203125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.32
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 38.40575408935547 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.31
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 38.43695068359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.3
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 39.05674743652344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.29
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 172 ms
+ Memory ~ 38.40606689453125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.28
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 39.10523223876953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.27
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 150 ms
+ Memory ~ 40.296905517578125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.26
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 40.642860412597656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.25
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 161 ms
+ Memory ~ 40.265174865722656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.24
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 39.11914825439453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.23
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 153 ms
+ Memory ~ 36.6448974609375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.22
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 37.89813995361328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.21
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 42.315834045410156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.2
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 147 ms
+ Memory ~ 40.86756134033203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.19
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 42.300567626953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.18
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 42.30058288574219 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.17
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 42.222068786621094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.16
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 149 ms
+ Memory ~ 42.19207763671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.15
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 42.191184997558594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.14
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 146 ms
+ Memory ~ 41.89935302734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.13
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 143 ms
+ Memory ~ 41.58673858642578 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.12
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 42.904815673828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.11
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 151 ms
+ Memory ~ 44.72026824951172 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 153 ms
+ Memory ~ 45.958984375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.09
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 154 ms
+ Memory ~ 46.402976989746094 MB
+ High-utility itemsets count : 1
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.08
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 155 ms
+ Memory ~ 47.18788146972656 MB
+ High-utility itemsets count : 1
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.07
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 163 ms
+ Memory ~ 48.99352264404297 MB
+ High-utility itemsets count : 1
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.06
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 214 ms
+ Memory ~ 53.308189392089844 MB
+ High-utility itemsets count : 1
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.05
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 183 ms
+ Memory ~ 61.944602966308594 MB
+ High-utility itemsets count : 2
+ Candidate count : 2
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.04
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 203 ms
+ Memory ~ 13.088821411132812 MB
+ High-utility itemsets count : 2
+ Candidate count : 82
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.03

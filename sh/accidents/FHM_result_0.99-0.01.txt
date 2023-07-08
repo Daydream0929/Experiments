@@ -1,0 +1,665 @@
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1989 ms
+ Memory ~ 584.172607421875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2071 ms
+ Memory ~ 153.41866302490234 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.99
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2113 ms
+ Memory ~ 153.45379638671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.98
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2113 ms
+ Memory ~ 211.71142578125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.97
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2150 ms
+ Memory ~ 211.72279357910156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.96
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2122 ms
+ Memory ~ 211.78983306884766 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.95
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2138 ms
+ Memory ~ 212.29297637939453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.94
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2162 ms
+ Memory ~ 269.1864242553711 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.93
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2191 ms
+ Memory ~ 244.6902313232422 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.92
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2229 ms
+ Memory ~ 244.94391632080078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.91
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2199 ms
+ Memory ~ 269.4236755371094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.9
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2222 ms
+ Memory ~ 325.54100799560547 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.89
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2291 ms
+ Memory ~ 358.75262451171875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.88
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2345 ms
+ Memory ~ 358.57508850097656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.87
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2349 ms
+ Memory ~ 437.6181106567383 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.86
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2288 ms
+ Memory ~ 438.65020751953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.85
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2274 ms
+ Memory ~ 439.5231018066406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.84
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2430 ms
+ Memory ~ 227.0962905883789 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.83
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2416 ms
+ Memory ~ 494.75109100341797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.82
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2323 ms
+ Memory ~ 495.0883102416992 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.81
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2469 ms
+ Memory ~ 573.7906494140625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.8
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2583 ms
+ Memory ~ 728.623405456543 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.79
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2612 ms
+ Memory ~ 805.1551971435547 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.78
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2593 ms
+ Memory ~ 803.2132339477539 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.77
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2644 ms
+ Memory ~ 802.3501739501953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.76
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2721 ms
+ Memory ~ 880.6987075805664 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.75
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2677 ms
+ Memory ~ 904.327522277832 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.74
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2814 ms
+ Memory ~ 984.9983139038086 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.73
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2792 ms
+ Memory ~ 981.9367752075195 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.72
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2818 ms
+ Memory ~ 980.3087387084961 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.71
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2913 ms
+ Memory ~ 1081.4137649536133 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.7
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3075 ms
+ Memory ~ 1155.7563095092773 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.69
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3050 ms
+ Memory ~ 1156.1349716186523 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.68
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3164 ms
+ Memory ~ 1252.720069885254 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.67
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3189 ms
+ Memory ~ 1252.8069610595703 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.66
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3259 ms
+ Memory ~ 185.5412139892578 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.65
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3221 ms
+ Memory ~ 1084.6979217529297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.64
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3350 ms
+ Memory ~ 1277.7113647460938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.63
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4045 ms
+ Memory ~ 348.1809844970703 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.62
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3462 ms
+ Memory ~ 360.7880859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.61
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4084 ms
+ Memory ~ 348.0181655883789 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.6
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3422 ms
+ Memory ~ 1275.6847305297852 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.59
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3341 ms
+ Memory ~ 1277.1159210205078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.58
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4221 ms
+ Memory ~ 422.72157287597656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.57
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4168 ms
+ Memory ~ 447.365478515625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.56
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4130 ms
+ Memory ~ 422.64036560058594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.55
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4094 ms
+ Memory ~ 422.47601318359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.54
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4163 ms
+ Memory ~ 522.0606307983398 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.53
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4245 ms
+ Memory ~ 522.2240600585938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.52
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4298 ms
+ Memory ~ 263.6254196166992 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.51
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4247 ms
+ Memory ~ 596.4975280761719 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.5
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4339 ms
+ Memory ~ 767.6172790527344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.49
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4365 ms
+ Memory ~ 768.2216949462891 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.48
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4593 ms
+ Memory ~ 940.8887023925781 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.47
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4535 ms
+ Memory ~ 678.4566268920898 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.46
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4527 ms
+ Memory ~ 918.7717590332031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.45
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4553 ms
+ Memory ~ 939.4515762329102 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.44
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4718 ms
+ Memory ~ 1014.3359756469727 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.43
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4625 ms
+ Memory ~ 1088.1548919677734 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.42
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4683 ms
+ Memory ~ 1086.7392883300781 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.41
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4640 ms
+ Memory ~ 1086.638168334961 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.4
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4703 ms
+ Memory ~ 1086.2978057861328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.39
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4753 ms
+ Memory ~ 1161.162353515625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.38
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4648 ms
+ Memory ~ 1163.8732986450195 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.37
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4808 ms
+ Memory ~ 918.6782073974609 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.36
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4799 ms
+ Memory ~ 1159.542350769043 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.35
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4673 ms
+ Memory ~ 1161.216796875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.34
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4756 ms
+ Memory ~ 1184.375717163086 MB
+ High-utility itemsets count : 0
+ Candidate count : 14
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.33
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4898 ms
+ Memory ~ 1284.6380996704102 MB
+ High-utility itemsets count : 0
+ Candidate count : 15
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.32
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 5054 ms
+ Memory ~ 1308.2680969238281 MB
+ High-utility itemsets count : 0
+ Candidate count : 30
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.31
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 5060 ms
+ Memory ~ 1381.8994598388672 MB
+ High-utility itemsets count : 0
+ Candidate count : 40
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.3
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 5385 ms
+ Memory ~ 1327.0146789550781 MB
+ High-utility itemsets count : 0
+ Candidate count : 48
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.29
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 6223 ms
+ Memory ~ 1382.9078903198242 MB
+ High-utility itemsets count : 0
+ Candidate count : 147
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.28
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 6800 ms
+ Memory ~ 1381.4644088745117 MB
+ High-utility itemsets count : 0
+ Candidate count : 219
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.27
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 7964 ms
+ Memory ~ 1333.0593338012695 MB
+ High-utility itemsets count : 0
+ Candidate count : 255
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.26
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 8719 ms
+ Memory ~ 1357.0130004882812 MB
+ High-utility itemsets count : 0
+ Candidate count : 317
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.25
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 9346 ms
+ Memory ~ 1353.3897094726562 MB
+ High-utility itemsets count : 0
+ Candidate count : 330
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.24
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 9259 ms
+ Memory ~ 1370.8533554077148 MB
+ High-utility itemsets count : 0
+ Candidate count : 340
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.23
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 11047 ms
+ Memory ~ 1380.7117080688477 MB
+ High-utility itemsets count : 0
+ Candidate count : 426
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.22
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 13365 ms
+ Memory ~ 1386.0813217163086 MB
+ High-utility itemsets count : 0
+ Candidate count : 562
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.21
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 17146 ms
+ Memory ~ 1468.4202728271484 MB
+ High-utility itemsets count : 0
+ Candidate count : 863
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.2
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 20740 ms
+ Memory ~ 1432.926414489746 MB
+ High-utility itemsets count : 0
+ Candidate count : 1077
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.19
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 25931 ms
+ Memory ~ 1440.796241760254 MB
+ High-utility itemsets count : 0
+ Candidate count : 1406
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.18
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 33552 ms
+ Memory ~ 1533.9847793579102 MB
+ High-utility itemsets count : 0
+ Candidate count : 2009
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.17
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 45628 ms
+ Memory ~ 1457.0516510009766 MB
+ High-utility itemsets count : 0
+ Candidate count : 2816
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.16
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 61410 ms
+ Memory ~ 1509.8557510375977 MB
+ High-utility itemsets count : 9
+ Candidate count : 4281
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.15
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 96069 ms
+ Memory ~ 1479.941047668457 MB
+ High-utility itemsets count : 48
+ Candidate count : 6924
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.14
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 154956 ms
+ Memory ~ 1451.620994567871 MB
+ High-utility itemsets count : 189
+ Candidate count : 10532
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.13
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 258693 ms
+ Memory ~ 1481.7794799804688 MB
+ High-utility itemsets count : 728
+ Candidate count : 17801
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.12
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 446098 ms
+ Memory ~ 1563.8285522460938 MB
+ High-utility itemsets count : 2367
+ Candidate count : 31951
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.11
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 757246 ms
+ Memory ~ 1888.2766494750977 MB
+ High-utility itemsets count : 7479
+ Candidate count : 60990
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1382624 ms
+ Memory ~ 2011.7550811767578 MB
+ High-utility itemsets count : 21952
+ Candidate count : 121041
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.09
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2642749 ms
+ Memory ~ 2196.4062423706055 MB
+ High-utility itemsets count : 61338
+ Candidate count : 246255
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.08
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4973372 ms
+ Memory ~ 2572.962631225586 MB
+ High-utility itemsets count : 163961
+ Candidate count : 512293
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.07
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 9111281 ms
+ Memory ~ 3156.659942626953 MB
+ High-utility itemsets count : 430498
+ Candidate count : 1106599
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.06
