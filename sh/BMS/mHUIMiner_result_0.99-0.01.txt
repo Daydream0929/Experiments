@@ -1,0 +1,882 @@
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 108457438
+ Total time ~ 154 ms
+ Memory ~ 44.64170837402344 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 1
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 107372863
+ Total time ~ 146 ms
+ Memory ~ 43.40110778808594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.99
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 106288289
+ Total time ~ 141 ms
+ Memory ~ 43.40098571777344 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.98
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 105203714
+ Total time ~ 143 ms
+ Memory ~ 43.40095520019531 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.97
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 104119140
+ Total time ~ 151 ms
+ Memory ~ 44.64104461669922 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.96
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 103034566
+ Total time ~ 149 ms
+ Memory ~ 42.16089630126953 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.95
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 101949991
+ Total time ~ 144 ms
+ Memory ~ 43.40099334716797 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.94
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 100865417
+ Total time ~ 145 ms
+ Memory ~ 44.64112091064453 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.93
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 99780842
+ Total time ~ 144 ms
+ Memory ~ 43.40101623535156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.92
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 98696268
+ Total time ~ 148 ms
+ Memory ~ 44.64104461669922 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.91
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 97611694
+ Total time ~ 141 ms
+ Memory ~ 43.401206970214844 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.9
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 96527119
+ Total time ~ 143 ms
+ Memory ~ 43.400970458984375 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.89
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 95442545
+ Total time ~ 149 ms
+ Memory ~ 43.40099334716797 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.88
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 94357971
+ Total time ~ 157 ms
+ Memory ~ 43.401092529296875 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.87
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 93273396
+ Total time ~ 145 ms
+ Memory ~ 43.40099334716797 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.86
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 92188822
+ Total time ~ 149 ms
+ Memory ~ 43.40082550048828 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.85
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 91104247
+ Total time ~ 147 ms
+ Memory ~ 44.64076232910156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.84
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 90019673
+ Total time ~ 150 ms
+ Memory ~ 43.400779724121094 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.83
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 88935099
+ Total time ~ 143 ms
+ Memory ~ 44.640899658203125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.82
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 87850524
+ Total time ~ 143 ms
+ Memory ~ 43.40095520019531 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.81
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 86765950
+ Total time ~ 144 ms
+ Memory ~ 43.400794982910156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.8
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 85681376
+ Total time ~ 150 ms
+ Memory ~ 42.161415100097656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.79
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 84596801
+ Total time ~ 155 ms
+ Memory ~ 43.40116882324219 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.78
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 83512227
+ Total time ~ 145 ms
+ Memory ~ 44.6409912109375 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.77
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 82427652
+ Total time ~ 148 ms
+ Memory ~ 44.64085388183594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.76
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 81343078
+ Total time ~ 145 ms
+ Memory ~ 43.400978088378906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.75
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 80258504
+ Total time ~ 143 ms
+ Memory ~ 43.40092468261719 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.74
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 79173929
+ Total time ~ 159 ms
+ Memory ~ 43.4019775390625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.73
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 78089355
+ Total time ~ 149 ms
+ Memory ~ 43.40089416503906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.72
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 77004780
+ Total time ~ 150 ms
+ Memory ~ 42.16191101074219 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.71
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 75920206
+ Total time ~ 147 ms
+ Memory ~ 43.40068054199219 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.7
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 74835632
+ Total time ~ 150 ms
+ Memory ~ 43.40144348144531 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.69
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 73751057
+ Total time ~ 142 ms
+ Memory ~ 44.64098358154297 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.68
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 72666483
+ Total time ~ 141 ms
+ Memory ~ 42.160980224609375 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.67
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 71581909
+ Total time ~ 143 ms
+ Memory ~ 43.40113830566406 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.66
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 70497334
+ Total time ~ 146 ms
+ Memory ~ 43.401145935058594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.65
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 69412760
+ Total time ~ 143 ms
+ Memory ~ 43.40089416503906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.64
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 68328185
+ Total time ~ 157 ms
+ Memory ~ 43.401145935058594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.63
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 67243611
+ Total time ~ 146 ms
+ Memory ~ 43.40101623535156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.62
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 66159037
+ Total time ~ 145 ms
+ Memory ~ 42.160850524902344 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.61
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 65074462
+ Total time ~ 144 ms
+ Memory ~ 43.401641845703125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.6
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 63989888
+ Total time ~ 140 ms
+ Memory ~ 42.16107940673828 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.59
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 62905314
+ Total time ~ 140 ms
+ Memory ~ 42.161033630371094 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.58
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 61820739
+ Total time ~ 148 ms
+ Memory ~ 43.401031494140625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.57
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 60736165
+ Total time ~ 147 ms
+ Memory ~ 43.401031494140625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.56
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 59651590
+ Total time ~ 144 ms
+ Memory ~ 43.400909423828125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.55
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 58567016
+ Total time ~ 151 ms
+ Memory ~ 42.160736083984375 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.54
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 57482442
+ Total time ~ 143 ms
+ Memory ~ 44.64202880859375 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.53
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 56397867
+ Total time ~ 146 ms
+ Memory ~ 44.640892028808594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.52
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 55313293
+ Total time ~ 157 ms
+ Memory ~ 44.640724182128906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.51
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 54228719
+ Total time ~ 147 ms
+ Memory ~ 43.402015686035156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.5
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 53144144
+ Total time ~ 146 ms
+ Memory ~ 43.40119171142578 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.49
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 52059570
+ Total time ~ 145 ms
+ Memory ~ 44.6412353515625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.48
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 50974995
+ Total time ~ 148 ms
+ Memory ~ 43.400794982910156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.47
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 49890421
+ Total time ~ 146 ms
+ Memory ~ 43.40068054199219 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.46
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 48805847
+ Total time ~ 146 ms
+ Memory ~ 43.40089416503906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.45
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 47721272
+ Total time ~ 146 ms
+ Memory ~ 43.40132141113281 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.44
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 46636698
+ Total time ~ 147 ms
+ Memory ~ 43.401153564453125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.43
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 45552123
+ Total time ~ 156 ms
+ Memory ~ 43.40086364746094 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.42
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 44467549
+ Total time ~ 143 ms
+ Memory ~ 44.64117431640625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.41
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 43382975
+ Total time ~ 140 ms
+ Memory ~ 43.400978088378906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.4
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 42298400
+ Total time ~ 144 ms
+ Memory ~ 43.40107727050781 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.39
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 41213826
+ Total time ~ 147 ms
+ Memory ~ 44.64080047607422 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.38
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 40129252
+ Total time ~ 146 ms
+ Memory ~ 43.40153503417969 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.37
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 39044677
+ Total time ~ 145 ms
+ Memory ~ 44.640899658203125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.36
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 37960103
+ Total time ~ 145 ms
+ Memory ~ 43.401084899902344 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.35
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 36875528
+ Total time ~ 142 ms
+ Memory ~ 43.40077209472656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.34
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 35790954
+ Total time ~ 147 ms
+ Memory ~ 42.160804748535156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.33
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 34706380
+ Total time ~ 149 ms
+ Memory ~ 43.400909423828125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.32
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 33621805
+ Total time ~ 152 ms
+ Memory ~ 43.401161193847656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.31
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 32537231
+ Total time ~ 148 ms
+ Memory ~ 44.64131164550781 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.3
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 31452657
+ Total time ~ 150 ms
+ Memory ~ 43.400909423828125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.29
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 30368082
+ Total time ~ 147 ms
+ Memory ~ 43.40135192871094 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.28
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 29283508
+ Total time ~ 147 ms
+ Memory ~ 43.40119171142578 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.27
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 28198933
+ Total time ~ 147 ms
+ Memory ~ 43.40098571777344 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.26
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 27114359
+ Total time ~ 149 ms
+ Memory ~ 43.40087890625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.25
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 26029785
+ Total time ~ 148 ms
+ Memory ~ 45.88104248046875 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.24
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 24945210
+ Total time ~ 143 ms
+ Memory ~ 42.160972595214844 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.23
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 23860636
+ Total time ~ 149 ms
+ Memory ~ 44.64085388183594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.22
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 22776061
+ Total time ~ 144 ms
+ Memory ~ 42.16081237792969 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.21
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 21691487
+ Total time ~ 149 ms
+ Memory ~ 43.401397705078125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.2
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 20606913
+ Total time ~ 149 ms
+ Memory ~ 45.88102722167969 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.19
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 19522338
+ Total time ~ 145 ms
+ Memory ~ 43.400909423828125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.18
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 18437764
+ Total time ~ 144 ms
+ Memory ~ 43.40101623535156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.17
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 17353190
+ Total time ~ 155 ms
+ Memory ~ 43.400840759277344 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.16
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 16268615
+ Total time ~ 144 ms
+ Memory ~ 43.40122985839844 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.15
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 15184041
+ Total time ~ 156 ms
+ Memory ~ 42.16167449951172 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.14
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 14099466
+ Total time ~ 150 ms
+ Memory ~ 43.40092468261719 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.13
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 13014892
+ Total time ~ 154 ms
+ Memory ~ 44.640892028808594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.12
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 11930318
+ Total time ~ 150 ms
+ Memory ~ 43.401161193847656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.11
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 10845743
+ Total time ~ 153 ms
+ Memory ~ 44.64091491699219 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.1
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 9761169
+ Total time ~ 155 ms
+ Memory ~ 43.63530731201172 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.09
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 8676595
+ Total time ~ 154 ms
+ Memory ~ 44.642738342285156 MB
+ Join count: 0
+ HUIs count : 1
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.08
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 7592020
+ Total time ~ 167 ms
+ Memory ~ 45.062957763671875 MB
+ Join count: 0
+ HUIs count : 1
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.07
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 6507446
+ Total time ~ 167 ms
+ Memory ~ 46.38177490234375 MB
+ Join count: 0
+ HUIs count : 1
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.06
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 5422871
+ Total time ~ 170 ms
+ Memory ~ 47.667579650878906 MB
+ Join count: 13
+ HUIs count : 1
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.05
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 4338297
+ Total time ~ 179 ms
+ Memory ~ 52.275543212890625 MB
+ Join count: 27
+ HUIs count : 2
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.04
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 108457438
+ Minimum utility: 3253723
+ Total time ~ 216 ms
+ Memory ~ 60.370750427246094 MB
+ Join count: 448
+ HUIs count : 2
+===================================================
+Finished processing ../../data/input/BMS.txt with arg 0.03

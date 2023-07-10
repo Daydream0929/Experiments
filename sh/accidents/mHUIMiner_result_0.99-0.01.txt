@@ -1,0 +1,846 @@
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 196141636
+ Total time ~ 2471 ms
+ Memory ~ 496.3956527709961 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 1
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 194180219
+ Total time ~ 2128 ms
+ Memory ~ 337.29317474365234 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.99
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 192218803
+ Total time ~ 2174 ms
+ Memory ~ 337.1776123046875 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.98
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 190257386
+ Total time ~ 2189 ms
+ Memory ~ 337.25172424316406 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.97
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 188295970
+ Total time ~ 2268 ms
+ Memory ~ 337.19395446777344 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.96
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 186334554
+ Total time ~ 2206 ms
+ Memory ~ 337.4132614135742 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.95
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 184373137
+ Total time ~ 2537 ms
+ Memory ~ 769.7931594848633 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.94
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 182411721
+ Total time ~ 2263 ms
+ Memory ~ 337.28106689453125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.93
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 180450305
+ Total time ~ 2214 ms
+ Memory ~ 337.05626678466797 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.92
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 178488888
+ Total time ~ 2134 ms
+ Memory ~ 337.332275390625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.91
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 176527472
+ Total time ~ 2234 ms
+ Memory ~ 337.09593200683594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.9
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 174566056
+ Total time ~ 2148 ms
+ Memory ~ 337.1367492675781 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.89
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 172604639
+ Total time ~ 2221 ms
+ Memory ~ 337.1421585083008 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.88
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 170643223
+ Total time ~ 2248 ms
+ Memory ~ 337.21620178222656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.87
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 168681806
+ Total time ~ 2278 ms
+ Memory ~ 337.0799255371094 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.86
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 166720390
+ Total time ~ 2309 ms
+ Memory ~ 337.3670425415039 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.85
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 164758974
+ Total time ~ 2414 ms
+ Memory ~ 853.1492538452148 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.84
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 162797557
+ Total time ~ 2312 ms
+ Memory ~ 337.27757263183594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.83
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 160836141
+ Total time ~ 2423 ms
+ Memory ~ 337.0813903808594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.82
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 158874725
+ Total time ~ 2311 ms
+ Memory ~ 337.2572326660156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.81
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 156913308
+ Total time ~ 2347 ms
+ Memory ~ 881.2295074462891 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.8
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 154951892
+ Total time ~ 2431 ms
+ Memory ~ 928.7543182373047 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.79
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 152990476
+ Total time ~ 2427 ms
+ Memory ~ 337.18882751464844 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.78
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 151029059
+ Total time ~ 2493 ms
+ Memory ~ 337.1351623535156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.77
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 149067643
+ Total time ~ 2401 ms
+ Memory ~ 337.17330169677734 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.76
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 147106227
+ Total time ~ 2479 ms
+ Memory ~ 955.1823272705078 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.75
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 145144810
+ Total time ~ 2479 ms
+ Memory ~ 337.35453033447266 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.74
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 143183394
+ Total time ~ 2624 ms
+ Memory ~ 982.2835006713867 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.73
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 141221977
+ Total time ~ 2482 ms
+ Memory ~ 327.54237365722656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.72
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 139260561
+ Total time ~ 2492 ms
+ Memory ~ 337.27307891845703 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.71
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 137299145
+ Total time ~ 2519 ms
+ Memory ~ 337.13468170166016 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.7
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 135337728
+ Total time ~ 2582 ms
+ Memory ~ 349.69690704345703 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.69
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 133376312
+ Total time ~ 2539 ms
+ Memory ~ 350.41158294677734 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.68
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 131414896
+ Total time ~ 2652 ms
+ Memory ~ 376.5318374633789 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.67
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 129453479
+ Total time ~ 2606 ms
+ Memory ~ 378.67749786376953 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.66
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 127492063
+ Total time ~ 2646 ms
+ Memory ~ 382.6573944091797 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.65
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 125530647
+ Total time ~ 2659 ms
+ Memory ~ 383.96817779541016 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.64
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 123569230
+ Total time ~ 2794 ms
+ Memory ~ 419.0482482910156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.63
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 121607814
+ Total time ~ 2862 ms
+ Memory ~ 419.55677032470703 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.62
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 119646397
+ Total time ~ 2838 ms
+ Memory ~ 1078.0130310058594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.61
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 117684981
+ Total time ~ 2834 ms
+ Memory ~ 420.1487503051758 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.6
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 115723565
+ Total time ~ 2813 ms
+ Memory ~ 419.42572021484375 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.59
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 113762148
+ Total time ~ 2785 ms
+ Memory ~ 416.3336868286133 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.58
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 111800732
+ Total time ~ 3460 ms
+ Memory ~ 437.82889556884766 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.57
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 109839316
+ Total time ~ 2882 ms
+ Memory ~ 1085.3703079223633 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.56
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 107877899
+ Total time ~ 3492 ms
+ Memory ~ 437.5566635131836 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.55
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 105916483
+ Total time ~ 3412 ms
+ Memory ~ 436.73175048828125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.54
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 103955067
+ Total time ~ 3628 ms
+ Memory ~ 441.8071517944336 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.53
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 101993650
+ Total time ~ 3533 ms
+ Memory ~ 443.0956039428711 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.52
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 100032234
+ Total time ~ 3403 ms
+ Memory ~ 441.7536392211914 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.51
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 98070818
+ Total time ~ 3543 ms
+ Memory ~ 470.09547424316406 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.5
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 96109401
+ Total time ~ 3638 ms
+ Memory ~ 523.8167114257812 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.49
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 94147985
+ Total time ~ 3710 ms
+ Memory ~ 523.6125869750977 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.48
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 92186568
+ Total time ~ 3792 ms
+ Memory ~ 558.0101165771484 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.47
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 90225152
+ Total time ~ 3808 ms
+ Memory ~ 557.7059326171875 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.46
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 88263736
+ Total time ~ 3798 ms
+ Memory ~ 558.0064697265625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.45
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 86302319
+ Total time ~ 3794 ms
+ Memory ~ 579.6685409545898 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.44
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 84340903
+ Total time ~ 3900 ms
+ Memory ~ 585.4710388183594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.43
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 82379487
+ Total time ~ 3867 ms
+ Memory ~ 591.0962905883789 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.42
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 80418070
+ Total time ~ 3727 ms
+ Memory ~ 454.6473083496094 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.41
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 78456654
+ Total time ~ 4030 ms
+ Memory ~ 593.6126708984375 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.4
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 76495238
+ Total time ~ 3938 ms
+ Memory ~ 592.1024856567383 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.39
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 74533821
+ Total time ~ 3658 ms
+ Memory ~ 645.7000045776367 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.38
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 72572405
+ Total time ~ 3846 ms
+ Memory ~ 454.6854553222656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.37
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 70610988
+ Total time ~ 3666 ms
+ Memory ~ 625.5594711303711 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.36
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 68649572
+ Total time ~ 3636 ms
+ Memory ~ 645.1961898803711 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.35
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 66688156
+ Total time ~ 3666 ms
+ Memory ~ 643.1003646850586 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.34
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 64726739
+ Total time ~ 4251 ms
+ Memory ~ 550.7254943847656 MB
+ Join count: 20
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.33
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 62765323
+ Total time ~ 4219 ms
+ Memory ~ 561.1407012939453 MB
+ Join count: 20
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.32
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 60803907
+ Total time ~ 4418 ms
+ Memory ~ 915.3091812133789 MB
+ Join count: 39
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.31
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 58842490
+ Total time ~ 4888 ms
+ Memory ~ 1043.3240356445312 MB
+ Join count: 60
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.3
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 56881074
+ Total time ~ 4827 ms
+ Memory ~ 1073.63720703125 MB
+ Join count: 60
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.29
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 54919658
+ Total time ~ 7511 ms
+ Memory ~ 1177.6746673583984 MB
+ Join count: 207
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.28
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 52958241
+ Total time ~ 9078 ms
+ Memory ~ 1291.1938934326172 MB
+ Join count: 304
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.27
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 50996825
+ Total time ~ 10105 ms
+ Memory ~ 1393.589485168457 MB
+ Join count: 355
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.26
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 49035409
+ Total time ~ 11035 ms
+ Memory ~ 1399.1705703735352 MB
+ Join count: 408
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.25
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 47073992
+ Total time ~ 10981 ms
+ Memory ~ 1411.809066772461 MB
+ Join count: 408
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.24
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 45112576
+ Total time ~ 11221 ms
+ Memory ~ 1384.8957061767578 MB
+ Join count: 408
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.23
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 43151159
+ Total time ~ 12731 ms
+ Memory ~ 1421.3022842407227 MB
+ Join count: 475
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.22
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 41189743
+ Total time ~ 14376 ms
+ Memory ~ 1446.535255432129 MB
+ Join count: 607
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.21
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 39228327
+ Total time ~ 19948 ms
+ Memory ~ 1450.3901596069336 MB
+ Join count: 925
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.2
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 37266910
+ Total time ~ 23132 ms
+ Memory ~ 1453.9134140014648 MB
+ Join count: 1207
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.19
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 35305494
+ Total time ~ 28563 ms
+ Memory ~ 1461.4455337524414 MB
+ Join count: 1602
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.18
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 33344078
+ Total time ~ 36867 ms
+ Memory ~ 1520.4970932006836 MB
+ Join count: 2284
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.17
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 31382661
+ Total time ~ 46663 ms
+ Memory ~ 1506.7753295898438 MB
+ Join count: 3099
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.16
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 29421245
+ Total time ~ 64441 ms
+ Memory ~ 1481.2226791381836 MB
+ Join count: 4871
+ HUIs count : 9
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.15
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 27459829
+ Total time ~ 99454 ms
+ Memory ~ 1579.1902542114258 MB
+ Join count: 7665
+ HUIs count : 48
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.14
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 25498412
+ Total time ~ 130675 ms
+ Memory ~ 1618.8893356323242 MB
+ Join count: 11493
+ HUIs count : 189
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.13
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 23536996
+ Total time ~ 225025 ms
+ Memory ~ 1634.083137512207 MB
+ Join count: 19167
+ HUIs count : 728
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.12
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 21575579
+ Total time ~ 371936 ms
+ Memory ~ 1797.7311096191406 MB
+ Join count: 33484
+ HUIs count : 2367
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.11
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 19614163
+ Total time ~ 657587 ms
+ Memory ~ 1898.8576202392578 MB
+ Join count: 63206
+ HUIs count : 7479
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.1
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 17652747
+ Total time ~ 1237138 ms
+ Memory ~ 1913.0280456542969 MB
+ Join count: 124105
+ HUIs count : 21952
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.09
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 15691330
+ Total time ~ 2251056 ms
+ Memory ~ 1958.9534301757812 MB
+ Join count: 251054
+ HUIs count : 61338
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.08
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 196141636
+ Minimum utility: 13729914
+ Total time ~ 4161142 ms
+ Memory ~ 2015.1558074951172 MB
+ Join count: 519368
+ HUIs count : 163961
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.07

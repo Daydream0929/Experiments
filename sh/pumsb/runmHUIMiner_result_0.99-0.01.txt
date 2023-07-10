@@ -1,0 +1,756 @@
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 66445076
+ Total time ~ 798 ms
+ Memory ~ 188.5584259033203 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 1
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 65780625
+ Total time ~ 837 ms
+ Memory ~ 269.3388137817383 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.99
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 65116174
+ Total time ~ 811 ms
+ Memory ~ 291.1057434082031 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.98
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 64451723
+ Total time ~ 866 ms
+ Memory ~ 443.84999084472656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.97
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 63787272
+ Total time ~ 894 ms
+ Memory ~ 465.85838317871094 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.96
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 63122822
+ Total time ~ 829 ms
+ Memory ~ 354.36385345458984 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.95
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 62458371
+ Total time ~ 900 ms
+ Memory ~ 493.72132110595703 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.94
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 61793920
+ Total time ~ 866 ms
+ Memory ~ 374.5546417236328 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.93
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 61129469
+ Total time ~ 891 ms
+ Memory ~ 387.32628631591797 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.92
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 60465019
+ Total time ~ 950 ms
+ Memory ~ 113.4364242553711 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.91
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 59800568
+ Total time ~ 892 ms
+ Memory ~ 426.5270233154297 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.9
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 59136117
+ Total time ~ 912 ms
+ Memory ~ 426.57395935058594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.89
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 58471666
+ Total time ~ 947 ms
+ Memory ~ 427.4716491699219 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.88
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 57807216
+ Total time ~ 913 ms
+ Memory ~ 427.096923828125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.87
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 57142765
+ Total time ~ 934 ms
+ Memory ~ 436.50782012939453 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.86
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 56478314
+ Total time ~ 946 ms
+ Memory ~ 457.7921447753906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.85
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 55813863
+ Total time ~ 943 ms
+ Memory ~ 467.6352996826172 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.84
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 55149413
+ Total time ~ 960 ms
+ Memory ~ 460.0426025390625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.83
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 54484962
+ Total time ~ 989 ms
+ Memory ~ 459.1388931274414 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.82
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 53820511
+ Total time ~ 960 ms
+ Memory ~ 468.4046096801758 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.81
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 53156060
+ Total time ~ 942 ms
+ Memory ~ 467.7036361694336 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.8
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 52491610
+ Total time ~ 945 ms
+ Memory ~ 467.9610290527344 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.79
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 51827159
+ Total time ~ 977 ms
+ Memory ~ 468.9046325683594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.78
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 51162708
+ Total time ~ 968 ms
+ Memory ~ 478.0919952392578 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.77
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 50498257
+ Total time ~ 968 ms
+ Memory ~ 479.44237518310547 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.76
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 49833807
+ Total time ~ 1018 ms
+ Memory ~ 499.69669342041016 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.75
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 49169356
+ Total time ~ 1045 ms
+ Memory ~ 514.021369934082 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.74
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 48504905
+ Total time ~ 1032 ms
+ Memory ~ 513.7866592407227 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.73
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 47840454
+ Total time ~ 1077 ms
+ Memory ~ 109.37572479248047 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.72
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 47176003
+ Total time ~ 1076 ms
+ Memory ~ 109.36536407470703 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.71
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 46511553
+ Total time ~ 1086 ms
+ Memory ~ 111.53756713867188 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.7
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 45847102
+ Total time ~ 1106 ms
+ Memory ~ 111.49958801269531 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.69
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 45182651
+ Total time ~ 1063 ms
+ Memory ~ 214.59821319580078 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.68
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 44518200
+ Total time ~ 1069 ms
+ Memory ~ 109.44627380371094 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.67
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 43853750
+ Total time ~ 1074 ms
+ Memory ~ 111.53558349609375 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.66
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 43189299
+ Total time ~ 1087 ms
+ Memory ~ 109.3305435180664 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.65
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 42524848
+ Total time ~ 1088 ms
+ Memory ~ 111.52841186523438 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.64
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 41860397
+ Total time ~ 1098 ms
+ Memory ~ 224.80168914794922 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.63
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 41195947
+ Total time ~ 1097 ms
+ Memory ~ 109.32176208496094 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.62
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 40531496
+ Total time ~ 1095 ms
+ Memory ~ 111.58692169189453 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.61
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 39867045
+ Total time ~ 1124 ms
+ Memory ~ 118.31756591796875 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.6
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 39202594
+ Total time ~ 1105 ms
+ Memory ~ 151.1245880126953 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.59
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 38538144
+ Total time ~ 1111 ms
+ Memory ~ 149.54275512695312 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.58
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 37873693
+ Total time ~ 1149 ms
+ Memory ~ 149.7287139892578 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.57
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 37209242
+ Total time ~ 1116 ms
+ Memory ~ 140.46088409423828 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.56
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 36544791
+ Total time ~ 1167 ms
+ Memory ~ 172.1351089477539 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.55
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 35880341
+ Total time ~ 1150 ms
+ Memory ~ 171.81649017333984 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.54
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 35215890
+ Total time ~ 1144 ms
+ Memory ~ 196.1740264892578 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.53
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 34551439
+ Total time ~ 1144 ms
+ Memory ~ 330.58875274658203 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.52
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 33886988
+ Total time ~ 1176 ms
+ Memory ~ 340.98631286621094 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.51
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 33222538
+ Total time ~ 1165 ms
+ Memory ~ 229.27147674560547 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.5
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 32558087
+ Total time ~ 1201 ms
+ Memory ~ 252.8896713256836 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.49
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 31893636
+ Total time ~ 1206 ms
+ Memory ~ 386.1037902832031 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.48
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 31229185
+ Total time ~ 1248 ms
+ Memory ~ 264.4583435058594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.47
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 30564734
+ Total time ~ 1241 ms
+ Memory ~ 264.10365295410156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.46
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 29900284
+ Total time ~ 1264 ms
+ Memory ~ 276.36363983154297 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.45
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 29235833
+ Total time ~ 1309 ms
+ Memory ~ 342.5597610473633 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.44
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 28571382
+ Total time ~ 1283 ms
+ Memory ~ 342.3668746948242 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.43
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 27906931
+ Total time ~ 1282 ms
+ Memory ~ 342.32643127441406 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.42
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 27242481
+ Total time ~ 1296 ms
+ Memory ~ 342.73392486572266 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.41
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 26578030
+ Total time ~ 1289 ms
+ Memory ~ 352.91944885253906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.4
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 25913579
+ Total time ~ 1292 ms
+ Memory ~ 365.8526382446289 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.39
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 25249128
+ Total time ~ 1311 ms
+ Memory ~ 510.9784927368164 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.38
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 24584678
+ Total time ~ 1295 ms
+ Memory ~ 512.856689453125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.37
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 23920227
+ Total time ~ 1319 ms
+ Memory ~ 398.1972351074219 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.36
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 23255776
+ Total time ~ 1294 ms
+ Memory ~ 521.9291076660156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.35
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 22591325
+ Total time ~ 1329 ms
+ Memory ~ 417.81192779541016 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.34
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 21926875
+ Total time ~ 1303 ms
+ Memory ~ 543.4751434326172 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.33
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 21262424
+ Total time ~ 2545 ms
+ Memory ~ 577.1943054199219 MB
+ Join count: 510
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.32
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 20597973
+ Total time ~ 5016 ms
+ Memory ~ 893.1404647827148 MB
+ Join count: 1505
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.31
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 19933522
+ Total time ~ 8168 ms
+ Memory ~ 1342.671287536621 MB
+ Join count: 3385
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.3
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 19269072
+ Total time ~ 12477 ms
+ Memory ~ 1298.436279296875 MB
+ Join count: 4859
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.29
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 18604621
+ Total time ~ 15688 ms
+ Memory ~ 1335.763084411621 MB
+ Join count: 7231
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.28
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 17940170
+ Total time ~ 31098 ms
+ Memory ~ 1363.1605682373047 MB
+ Join count: 15476
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.27
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 17275719
+ Total time ~ 53226 ms
+ Memory ~ 1383.8791122436523 MB
+ Join count: 27763
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.26
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 16611269
+ Total time ~ 96336 ms
+ Memory ~ 1371.2195053100586 MB
+ Join count: 53927
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.25
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 15946818
+ Total time ~ 200116 ms
+ Memory ~ 1419.7573776245117 MB
+ Join count: 117384
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.24
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 15282367
+ Total time ~ 389976 ms
+ Memory ~ 1465.010971069336 MB
+ Join count: 233240
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.23
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 14617916
+ Total time ~ 587833 ms
+ Memory ~ 1524.6482467651367 MB
+ Join count: 393388
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.22
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 13953465
+ Total time ~ 864486 ms
+ Memory ~ 1530.5220947265625 MB
+ Join count: 565674
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.21
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 13289015
+ Total time ~ 1145673 ms
+ Memory ~ 1566.5697555541992 MB
+ Join count: 754157
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.2
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 12624564
+ Total time ~ 1799872 ms
+ Memory ~ 1619.4065551757812 MB
+ Join count: 1100625
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.19
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 11960113
+ Total time ~ 3155513 ms
+ Memory ~ 1691.85205078125 MB
+ Join count: 2236857
+ HUIs count : 292
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.18
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 66445076
+ Minimum utility: 11295662
+ Total time ~ 14999188 ms
+ Memory ~ 2131.402114868164 MB
+ Join count: 13065532
+ HUIs count : 7164
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.17

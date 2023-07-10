@@ -1,0 +1,900 @@
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3413720
+ Total time ~ 161 ms
+ Memory ~ 26.04119873046875 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 1
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3379582
+ Total time ~ 160 ms
+ Memory ~ 26.041053771972656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.99
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3345445
+ Total time ~ 160 ms
+ Memory ~ 26.04083251953125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.98
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3311308
+ Total time ~ 178 ms
+ Memory ~ 28.521072387695312 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.97
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3277171
+ Total time ~ 164 ms
+ Memory ~ 26.04071807861328 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.96
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3243034
+ Total time ~ 171 ms
+ Memory ~ 28.521751403808594 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.95
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3208896
+ Total time ~ 160 ms
+ Memory ~ 27.281219482421875 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.94
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3174759
+ Total time ~ 156 ms
+ Memory ~ 27.281265258789062 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.93
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3140622
+ Total time ~ 137 ms
+ Memory ~ 28.521209716796875 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.92
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3106485
+ Total time ~ 180 ms
+ Memory ~ 28.521881103515625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.91
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3072348
+ Total time ~ 179 ms
+ Memory ~ 26.04114532470703 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.9
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3038210
+ Total time ~ 170 ms
+ Memory ~ 27.281585693359375 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.89
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 3004073
+ Total time ~ 171 ms
+ Memory ~ 27.28125762939453 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.88
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2969936
+ Total time ~ 159 ms
+ Memory ~ 28.521133422851562 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.87
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2935799
+ Total time ~ 177 ms
+ Memory ~ 27.281600952148438 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.86
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2901662
+ Total time ~ 172 ms
+ Memory ~ 28.521095275878906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.85
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2867524
+ Total time ~ 154 ms
+ Memory ~ 27.281280517578125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.84
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2833387
+ Total time ~ 181 ms
+ Memory ~ 26.041587829589844 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.83
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2799250
+ Total time ~ 169 ms
+ Memory ~ 27.281166076660156 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.82
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2765113
+ Total time ~ 163 ms
+ Memory ~ 27.28101348876953 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.81
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2730976
+ Total time ~ 170 ms
+ Memory ~ 28.521209716796875 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.8
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2696838
+ Total time ~ 138 ms
+ Memory ~ 27.281051635742188 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.79
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2662701
+ Total time ~ 142 ms
+ Memory ~ 28.521133422851562 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.78
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2628564
+ Total time ~ 167 ms
+ Memory ~ 27.28075408935547 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.77
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2594427
+ Total time ~ 165 ms
+ Memory ~ 27.280776977539062 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.76
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2560290
+ Total time ~ 166 ms
+ Memory ~ 26.041114807128906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.75
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2526152
+ Total time ~ 162 ms
+ Memory ~ 27.280982971191406 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.74
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2492015
+ Total time ~ 154 ms
+ Memory ~ 26.0411376953125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.73
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2457878
+ Total time ~ 165 ms
+ Memory ~ 27.28173828125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.72
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2423741
+ Total time ~ 165 ms
+ Memory ~ 27.281227111816406 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.71
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2389604
+ Total time ~ 176 ms
+ Memory ~ 26.041000366210938 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.7
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2355466
+ Total time ~ 165 ms
+ Memory ~ 27.281105041503906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.69
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2321329
+ Total time ~ 173 ms
+ Memory ~ 28.521133422851562 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.68
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2287192
+ Total time ~ 168 ms
+ Memory ~ 28.52130889892578 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.67
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2253055
+ Total time ~ 171 ms
+ Memory ~ 27.281295776367188 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.66
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2218918
+ Total time ~ 187 ms
+ Memory ~ 27.281570434570312 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.65
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2184780
+ Total time ~ 184 ms
+ Memory ~ 28.520790100097656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.64
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2150643
+ Total time ~ 176 ms
+ Memory ~ 28.521026611328125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.63
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2116506
+ Total time ~ 158 ms
+ Memory ~ 28.521133422851562 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.62
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2082369
+ Total time ~ 167 ms
+ Memory ~ 27.28131103515625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.61
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2048232
+ Total time ~ 178 ms
+ Memory ~ 27.281089782714844 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.6
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 2014094
+ Total time ~ 177 ms
+ Memory ~ 27.281326293945312 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.59
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1979957
+ Total time ~ 177 ms
+ Memory ~ 27.281417846679688 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.58
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1945820
+ Total time ~ 171 ms
+ Memory ~ 27.281402587890625 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.57
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1911683
+ Total time ~ 171 ms
+ Memory ~ 28.521072387695312 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.56
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1877546
+ Total time ~ 171 ms
+ Memory ~ 28.52147674560547 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.55
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1843408
+ Total time ~ 172 ms
+ Memory ~ 26.041030883789062 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.54
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1809271
+ Total time ~ 177 ms
+ Memory ~ 28.52142333984375 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.53
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1775134
+ Total time ~ 166 ms
+ Memory ~ 26.041542053222656 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.52
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1740997
+ Total time ~ 187 ms
+ Memory ~ 27.2813720703125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.51
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1706860
+ Total time ~ 190 ms
+ Memory ~ 28.52123260498047 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.5
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1672722
+ Total time ~ 179 ms
+ Memory ~ 27.281234741210938 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.49
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1638585
+ Total time ~ 170 ms
+ Memory ~ 27.28130340576172 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.48
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1604448
+ Total time ~ 171 ms
+ Memory ~ 29.761154174804688 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.47
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1570311
+ Total time ~ 173 ms
+ Memory ~ 27.281333923339844 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.46
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1536174
+ Total time ~ 174 ms
+ Memory ~ 27.281349182128906 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.45
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1502036
+ Total time ~ 180 ms
+ Memory ~ 27.281600952148438 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.44
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1467899
+ Total time ~ 175 ms
+ Memory ~ 28.521255493164062 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.43
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1433762
+ Total time ~ 167 ms
+ Memory ~ 26.04108428955078 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.42
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1399625
+ Total time ~ 165 ms
+ Memory ~ 27.281478881835938 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.41
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1365488
+ Total time ~ 189 ms
+ Memory ~ 27.28101348876953 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.4
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1331350
+ Total time ~ 176 ms
+ Memory ~ 28.52118682861328 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.39
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1297213
+ Total time ~ 198 ms
+ Memory ~ 26.0411376953125 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.38
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1263076
+ Total time ~ 178 ms
+ Memory ~ 29.76134490966797 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.37
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1228939
+ Total time ~ 197 ms
+ Memory ~ 28.521217346191406 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.36
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1194802
+ Total time ~ 191 ms
+ Memory ~ 27.281814575195312 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.35
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1160664
+ Total time ~ 179 ms
+ Memory ~ 26.04132843017578 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.34
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1126527
+ Total time ~ 178 ms
+ Memory ~ 28.521194458007812 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.33
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1092390
+ Total time ~ 181 ms
+ Memory ~ 27.280868530273438 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.32
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1058253
+ Total time ~ 153 ms
+ Memory ~ 28.521408081054688 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.31
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 1024116
+ Total time ~ 198 ms
+ Memory ~ 29.761154174804688 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.3
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 989978
+ Total time ~ 205 ms
+ Memory ~ 28.52118682861328 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.29
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 955841
+ Total time ~ 193 ms
+ Memory ~ 28.521286010742188 MB
+ Join count: 0
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.28
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 921704
+ Total time ~ 214 ms
+ Memory ~ 28.521484375 MB
+ Join count: 38
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.27
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 887567
+ Total time ~ 191 ms
+ Memory ~ 28.521453857421875 MB
+ Join count: 38
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.26
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 853430
+ Total time ~ 217 ms
+ Memory ~ 26.041290283203125 MB
+ Join count: 75
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.25
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 819292
+ Total time ~ 215 ms
+ Memory ~ 27.612709045410156 MB
+ Join count: 117
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.24
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 785155
+ Total time ~ 191 ms
+ Memory ~ 28.521820068359375 MB
+ Join count: 117
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.23
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 751018
+ Total time ~ 201 ms
+ Memory ~ 32.19175720214844 MB
+ Join count: 145
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.22
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 716881
+ Total time ~ 257 ms
+ Memory ~ 34.57917022705078 MB
+ Join count: 199
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.21
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 682744
+ Total time ~ 279 ms
+ Memory ~ 40.56116485595703 MB
+ Join count: 298
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.2
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 648606
+ Total time ~ 309 ms
+ Memory ~ 51.38761901855469 MB
+ Join count: 485
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.19
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 614469
+ Total time ~ 307 ms
+ Memory ~ 66.34716033935547 MB
+ Join count: 767
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.18
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 580332
+ Total time ~ 370 ms
+ Memory ~ 66.3479995727539 MB
+ Join count: 978
+ HUIs count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.17
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 546195
+ Total time ~ 379 ms
+ Memory ~ 66.3929672241211 MB
+ Join count: 1296
+ HUIs count : 21
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.16
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 512058
+ Total time ~ 456 ms
+ Memory ~ 69.39901733398438 MB
+ Join count: 1779
+ HUIs count : 88
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.15
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 477920
+ Total time ~ 600 ms
+ Memory ~ 131.04174041748047 MB
+ Join count: 2912
+ HUIs count : 415
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.14
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 443783
+ Total time ~ 851 ms
+ Memory ~ 131.12106323242188 MB
+ Join count: 5593
+ HUIs count : 1152
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.13
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 409646
+ Total time ~ 1232 ms
+ Memory ~ 255.16698455810547 MB
+ Join count: 8942
+ HUIs count : 2726
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.12
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 375509
+ Total time ~ 1920 ms
+ Memory ~ 255.18291473388672 MB
+ Join count: 14893
+ HUIs count : 5801
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.11
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 341372
+ Total time ~ 2656 ms
+ Memory ~ 503.2616882324219 MB
+ Join count: 21062
+ HUIs count : 9594
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.1
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 307234
+ Total time ~ 3436 ms
+ Memory ~ 503.34014892578125 MB
+ Join count: 29889
+ HUIs count : 15318
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.09
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 273097
+ Total time ~ 4558 ms
+ Memory ~ 838.2925643920898 MB
+ Join count: 44820
+ HUIs count : 22919
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.08
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 238960
+ Total time ~ 6936 ms
+ Memory ~ 998.5463485717773 MB
+ Join count: 80882
+ HUIs count : 39171
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.07
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 204823
+ Total time ~ 12025 ms
+ Memory ~ 998.8205184936523 MB
+ Join count: 160540
+ HUIs count : 83844
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.06
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 170686
+ Total time ~ 20022 ms
+ Memory ~ 999.5964889526367 MB
+ Join count: 303745
+ HUIs count : 175387
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.05
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 136548
+ Total time ~ 31809 ms
+ Memory ~ 999.6589202880859 MB
+ Join count: 633309
+ HUIs count : 374613
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.04
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 102411
+ Total time ~ 71881 ms
+ Memory ~ 999.3157348632812 MB
+ Join count: 1527342
+ HUIs count : 977990
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.03
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 68274
+ Total time ~ 156367 ms
+ Memory ~ 999.6432647705078 MB
+ Join count: 4976878
+ HUIs count : 3295468
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.02
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 3413720
+ Minimum utility: 34137
+ Total time ~ 506338 ms
+ Memory ~ 1000.212776184082 MB
+ Join count: 26911881
+ HUIs count : 19583932
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.01
