@@ -1,0 +1,679 @@
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 3942 ms
+ Memory ~ 754.6072082519531 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 1
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2388 ms
+ Memory ~ 355.5253601074219 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.99
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2366 ms
+ Memory ~ 354.63417053222656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.98
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2417 ms
+ Memory ~ 142.86767578125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.97
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2435 ms
+ Memory ~ 414.54762268066406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.96
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2386 ms
+ Memory ~ 412.8834533691406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.95
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2386 ms
+ Memory ~ 142.60991668701172 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.94
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2445 ms
+ Memory ~ 470.4857635498047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.93
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2411 ms
+ Memory ~ 470.37577056884766 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.92
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2490 ms
+ Memory ~ 469.8165969848633 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.91
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2389 ms
+ Memory ~ 470.38331604003906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.9
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2627 ms
+ Memory ~ 259.5478744506836 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.89
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2609 ms
+ Memory ~ 581.9734420776367 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.88
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2560 ms
+ Memory ~ 583.4308700561523 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.87
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2577 ms
+ Memory ~ 662.3966217041016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.86
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2622 ms
+ Memory ~ 661.3221130371094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.85
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2574 ms
+ Memory ~ 662.3977890014648 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.84
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2662 ms
+ Memory ~ 719.2864608764648 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.83
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2666 ms
+ Memory ~ 717.4434432983398 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.82
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2680 ms
+ Memory ~ 740.9570388793945 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.81
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2784 ms
+ Memory ~ 796.7637481689453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.8
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2971 ms
+ Memory ~ 733.7712173461914 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.79
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 4787 ms
+ Memory ~ 292.67555236816406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.78
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 3060 ms
+ Memory ~ 1074.3800964355469 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.77
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 4851 ms
+ Memory ~ 822.2122344970703 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.76
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 4935 ms
+ Memory ~ 378.2034912109375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.75
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 4996 ms
+ Memory ~ 378.07825469970703 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.74
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 5232 ms
+ Memory ~ 477.70040130615234 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.73
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 5172 ms
+ Memory ~ 477.91966247558594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.72
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 5234 ms
+ Memory ~ 478.1082000732422 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.71
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 5462 ms
+ Memory ~ 562.2685623168945 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.7
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 5654 ms
+ Memory ~ 675.6101531982422 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.69
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 5643 ms
+ Memory ~ 675.7865753173828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.68
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 5734 ms
+ Memory ~ 788.2906875610352 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.67
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 5782 ms
+ Memory ~ 788.87255859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.66
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6019 ms
+ Memory ~ 889.7312240600586 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.65
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6071 ms
+ Memory ~ 874.5645065307617 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.64
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6424 ms
+ Memory ~ 321.9515609741211 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.63
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6504 ms
+ Memory ~ 639.5181655883789 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.62
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6333 ms
+ Memory ~ 319.6147994995117 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.61
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6435 ms
+ Memory ~ 321.2036666870117 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.6
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6457 ms
+ Memory ~ 334.6781997680664 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.59
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6403 ms
+ Memory ~ 319.1930160522461 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.58
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6658 ms
+ Memory ~ 434.2287902832031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.57
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6539 ms
+ Memory ~ 419.11402130126953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.56
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6525 ms
+ Memory ~ 434.56175231933594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.55
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6571 ms
+ Memory ~ 419.490234375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.54
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6829 ms
+ Memory ~ 518.2580718994141 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.53
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6754 ms
+ Memory ~ 508.66024017333984 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.52
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6789 ms
+ Memory ~ 837.6763687133789 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.51
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6912 ms
+ Memory ~ 608.5128479003906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.5
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7176 ms
+ Memory ~ 769.011589050293 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.49
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7178 ms
+ Memory ~ 1116.2026138305664 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.48
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7409 ms
+ Memory ~ 972.8559036254883 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.47
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7613 ms
+ Memory ~ 332.2667922973633 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.46
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7701 ms
+ Memory ~ 350.95850372314453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.45
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7485 ms
+ Memory ~ 971.9848251342773 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.44
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7767 ms
+ Memory ~ 266.0176696777344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.43
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7890 ms
+ Memory ~ 378.29517364501953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.42
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7979 ms
+ Memory ~ 377.89966583251953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.41
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7834 ms
+ Memory ~ 377.6514434814453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.4
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7874 ms
+ Memory ~ 378.0586395263672 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.39
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7835 ms
+ Memory ~ 459.4147262573242 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.38
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7936 ms
+ Memory ~ 599.0369338989258 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.37
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7894 ms
+ Memory ~ 459.17425537109375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.36
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7863 ms
+ Memory ~ 459.0559310913086 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.35
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 7781 ms
+ Memory ~ 459.3864212036133 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.34
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 8116 ms
+ Memory ~ 637.1121215820312 MB
+ High-utility itemsets count : 0
+ Candidate count : 14
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.33
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 8247 ms
+ Memory ~ 513.4781875610352 MB
+ High-utility itemsets count : 0
+ Candidate count : 15
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.32
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 8175 ms
+ Memory ~ 540.1443634033203 MB
+ High-utility itemsets count : 0
+ Candidate count : 30
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.31
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 8290 ms
+ Memory ~ 555.0604705810547 MB
+ High-utility itemsets count : 0
+ Candidate count : 40
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.3
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 8458 ms
+ Memory ~ 609.7955627441406 MB
+ High-utility itemsets count : 0
+ Candidate count : 48
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.29
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 8838 ms
+ Memory ~ 701.0114517211914 MB
+ High-utility itemsets count : 0
+ Candidate count : 147
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.28
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 9147 ms
+ Memory ~ 754.1621475219727 MB
+ High-utility itemsets count : 0
+ Candidate count : 219
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.27
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 9630 ms
+ Memory ~ 891.4699172973633 MB
+ High-utility itemsets count : 0
+ Candidate count : 255
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.26
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 10265 ms
+ Memory ~ 1017.9308929443359 MB
+ High-utility itemsets count : 0
+ Candidate count : 317
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.25
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 10393 ms
+ Memory ~ 1146.4367904663086 MB
+ High-utility itemsets count : 0
+ Candidate count : 330
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.24
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 10899 ms
+ Memory ~ 1032.0493087768555 MB
+ High-utility itemsets count : 0
+ Candidate count : 340
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.23
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 11106 ms
+ Memory ~ 542.9134216308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 426
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.22
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 11801 ms
+ Memory ~ 654.658576965332 MB
+ High-utility itemsets count : 0
+ Candidate count : 562
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.21
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 12944 ms
+ Memory ~ 735.0198135375977 MB
+ High-utility itemsets count : 0
+ Candidate count : 863
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.2
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 13866 ms
+ Memory ~ 830.8778381347656 MB
+ High-utility itemsets count : 0
+ Candidate count : 1077
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.19
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 15544 ms
+ Memory ~ 959.3821792602539 MB
+ High-utility itemsets count : 0
+ Candidate count : 1406
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.18
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 18666 ms
+ Memory ~ 1028.0475387573242 MB
+ High-utility itemsets count : 0
+ Candidate count : 2009
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.17
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 20786 ms
+ Memory ~ 1064.2907104492188 MB
+ High-utility itemsets count : 0
+ Candidate count : 2816
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.16
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 24653 ms
+ Memory ~ 601.6747207641602 MB
+ High-utility itemsets count : 9
+ Candidate count : 4281
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.15
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 32155 ms
+ Memory ~ 744.965461730957 MB
+ High-utility itemsets count : 48
+ Candidate count : 6924
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.14
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 43035 ms
+ Memory ~ 948.5410385131836 MB
+ High-utility itemsets count : 189
+ Candidate count : 10532
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.13
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 62934 ms
+ Memory ~ 964.9488067626953 MB
+ High-utility itemsets count : 728
+ Candidate count : 17801
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.12
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 161641 ms
+ Memory ~ 966.1627502441406 MB
+ High-utility itemsets count : 2367
+ Candidate count : 31951
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.11
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 186979 ms
+ Memory ~ 1102.5411376953125 MB
+ High-utility itemsets count : 7479
+ Candidate count : 60990
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.1
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 288985 ms
+ Memory ~ 905.281867980957 MB
+ High-utility itemsets count : 21952
+ Candidate count : 121041
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.09
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 526477 ms
+ Memory ~ 1015.5656127929688 MB
+ High-utility itemsets count : 61338
+ Candidate count : 246255
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.08
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1108395 ms
+ Memory ~ 1362.6676788330078 MB
+ High-utility itemsets count : 163961
+ Candidate count : 512293
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.07
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1886617 ms
+ Memory ~ 1070.627342224121 MB
+ High-utility itemsets count : 430498
+ Candidate count : 1106599
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.06
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 3709604 ms
+ Memory ~ 1358.3281631469727 MB
+ High-utility itemsets count : 1150796
+ Candidate count : 2545898
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.05
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 8240505 ms
+ Memory ~ 1373.494125366211 MB
+ High-utility itemsets count : 3306348
+ Candidate count : 6448451
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.04

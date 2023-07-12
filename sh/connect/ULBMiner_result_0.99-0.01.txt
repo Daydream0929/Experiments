@@ -1,0 +1,491 @@
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 703 ms
+ Memory ~ 138.28093719482422 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 1
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 757 ms
+ Memory ~ 45.864715576171875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.99
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 795 ms
+ Memory ~ 77.8388900756836 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.98
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 816 ms
+ Memory ~ 107.65485382080078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.97
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 894 ms
+ Memory ~ 206.39588165283203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.96
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1008 ms
+ Memory ~ 358.2982177734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.95
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 959 ms
+ Memory ~ 271.57505798339844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.94
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 990 ms
+ Memory ~ 299.14473724365234 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.93
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1018 ms
+ Memory ~ 335.74962615966797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.92
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1066 ms
+ Memory ~ 363.17945861816406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.91
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1133 ms
+ Memory ~ 434.8967056274414 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.9
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1223 ms
+ Memory ~ 469.3787307739258 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.89
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1182 ms
+ Memory ~ 469.84644317626953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.88
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1219 ms
+ Memory ~ 66.17295837402344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.87
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1270 ms
+ Memory ~ 66.39546966552734 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.86
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1262 ms
+ Memory ~ 111.91682434082031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.85
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1290 ms
+ Memory ~ 111.55408477783203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.84
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1292 ms
+ Memory ~ 103.1989517211914 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.83
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1386 ms
+ Memory ~ 184.24501037597656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.82
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1383 ms
+ Memory ~ 184.52843475341797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.81
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1425 ms
+ Memory ~ 220.1288604736328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.8
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1412 ms
+ Memory ~ 220.25759887695312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.79
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1407 ms
+ Memory ~ 263.93638610839844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.78
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1473 ms
+ Memory ~ 255.9162826538086 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.77
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1445 ms
+ Memory ~ 263.90421295166016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.76
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1407 ms
+ Memory ~ 298.87864685058594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.75
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1511 ms
+ Memory ~ 299.2028350830078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.74
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1455 ms
+ Memory ~ 299.46202087402344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.73
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1438 ms
+ Memory ~ 298.73180389404297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.72
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1457 ms
+ Memory ~ 333.25023651123047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.71
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 175323 ms
+ Memory ~ 335.2254104614258 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.7
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1515 ms
+ Memory ~ 333.48133087158203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.69
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1566 ms
+ Memory ~ 376.89540100097656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.68
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1603 ms
+ Memory ~ 368.48242950439453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.67
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1591 ms
+ Memory ~ 368.38604736328125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.66
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1690 ms
+ Memory ~ 410.6878662109375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.65
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1721 ms
+ Memory ~ 445.2456970214844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.64
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1817 ms
+ Memory ~ 444.75782012939453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.63
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1750 ms
+ Memory ~ 445.0572204589844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.62
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1636 ms
+ Memory ~ 486.48182678222656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.61
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1677 ms
+ Memory ~ 107.32837677001953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.6
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1694 ms
+ Memory ~ 107.27369689941406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.59
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1641 ms
+ Memory ~ 107.23690032958984 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.58
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1650 ms
+ Memory ~ 107.2740249633789 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.57
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1659 ms
+ Memory ~ 135.31705474853516 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.56
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1792 ms
+ Memory ~ 135.1609115600586 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.55
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1777 ms
+ Memory ~ 135.1845245361328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.54
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1693 ms
+ Memory ~ 135.11326599121094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.53
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1706 ms
+ Memory ~ 135.11029052734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.52
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1769 ms
+ Memory ~ 148.6492691040039 MB
+ High-utility itemsets count : 0
+ Candidate count : 24
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.51
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1848 ms
+ Memory ~ 189.5491714477539 MB
+ High-utility itemsets count : 0
+ Candidate count : 122
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.5
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1898 ms
+ Memory ~ 189.4979019165039 MB
+ High-utility itemsets count : 0
+ Candidate count : 166
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.49
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1987 ms
+ Memory ~ 189.41423797607422 MB
+ High-utility itemsets count : 0
+ Candidate count : 243
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.48
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2115 ms
+ Memory ~ 189.60778045654297 MB
+ High-utility itemsets count : 0
+ Candidate count : 306
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.47
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2151 ms
+ Memory ~ 230.02518463134766 MB
+ High-utility itemsets count : 0
+ Candidate count : 363
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.46
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2301 ms
+ Memory ~ 230.05957794189453 MB
+ High-utility itemsets count : 0
+ Candidate count : 373
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.45
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2222 ms
+ Memory ~ 243.53015899658203 MB
+ High-utility itemsets count : 0
+ Candidate count : 423
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.44
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2324 ms
+ Memory ~ 283.74800872802734 MB
+ High-utility itemsets count : 0
+ Candidate count : 486
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.43
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2477 ms
+ Memory ~ 283.8795471191406 MB
+ High-utility itemsets count : 0
+ Candidate count : 656
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.42
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2658 ms
+ Memory ~ 324.05823516845703 MB
+ High-utility itemsets count : 0
+ Candidate count : 878
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.41
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 24717269 ms
+ Memory ~ 236.17137908935547 MB
+ High-utility itemsets count : 0
+ Candidate count : 1257
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.4
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 3496 ms
+ Memory ~ 364.0414123535156 MB
+ High-utility itemsets count : 0
+ Candidate count : 1721
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.39
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 4121 ms
+ Memory ~ 390.6132049560547 MB
+ High-utility itemsets count : 0
+ Candidate count : 2175
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.38
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 4995 ms
+ Memory ~ 418.30724334716797 MB
+ High-utility itemsets count : 0
+ Candidate count : 3041
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.37
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6071 ms
+ Memory ~ 418.21038818359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 4377
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.36
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 8415 ms
+ Memory ~ 317.3512649536133 MB
+ High-utility itemsets count : 0
+ Candidate count : 6593
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.35
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 11272 ms
+ Memory ~ 498.32850646972656 MB
+ High-utility itemsets count : 0
+ Candidate count : 10177
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.34
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 16572 ms
+ Memory ~ 551.6822967529297 MB
+ High-utility itemsets count : 9
+ Candidate count : 16385
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.33
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 29825 ms
+ Memory ~ 665.8354415893555 MB
+ High-utility itemsets count : 171
+ Candidate count : 30842
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.32
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 59006 ms
+ Memory ~ 680.4684677124023 MB
+ High-utility itemsets count : 1144
+ Candidate count : 65405
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.31
+Finished processing ../../data/input/connect.txt with arg 0.3

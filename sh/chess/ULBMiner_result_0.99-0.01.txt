@@ -1,0 +1,665 @@
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 124 ms
+ Memory ~ 45.884056091308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 1
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 140 ms
+ Memory ~ 47.12220764160156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.99
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 47.18016052246094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.98
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 144 ms
+ Memory ~ 47.18029022216797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.97
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 116 ms
+ Memory ~ 48.606956481933594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.96
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 161 ms
+ Memory ~ 50.03541564941406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.95
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 179 ms
+ Memory ~ 52.792808532714844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.94
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 179 ms
+ Memory ~ 52.76885986328125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.93
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 133 ms
+ Memory ~ 52.88355255126953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.92
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 129 ms
+ Memory ~ 52.88316345214844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.91
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 126 ms
+ Memory ~ 52.882774353027344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.9
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 205 ms
+ Memory ~ 55.82549285888672 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.89
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 134 ms
+ Memory ~ 55.811859130859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.88
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 208 ms
+ Memory ~ 55.8258056640625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.87
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 204 ms
+ Memory ~ 55.82628631591797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.86
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 134 ms
+ Memory ~ 55.81214904785156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.85
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 141 ms
+ Memory ~ 57.07176208496094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.84
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 138 ms
+ Memory ~ 55.833404541015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.83
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 216 ms
+ Memory ~ 58.33918762207031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.82
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 148 ms
+ Memory ~ 58.328453063964844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.81
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 145 ms
+ Memory ~ 59.58637237548828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.8
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 230 ms
+ Memory ~ 62.0 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.79
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 222 ms
+ Memory ~ 4.1106719970703125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.78
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 155 ms
+ Memory ~ 4.001411437988281 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.77
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 227 ms
+ Memory ~ 4.016937255859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.76
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 238 ms
+ Memory ~ 4.0950469970703125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.75
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 160 ms
+ Memory ~ 6.590187072753906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.74
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 159 ms
+ Memory ~ 6.6217193603515625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.73
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 162 ms
+ Memory ~ 6.6058502197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.72
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 161 ms
+ Memory ~ 6.605827331542969 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.71
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 159 ms
+ Memory ~ 6.590217590332031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.7
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 169 ms
+ Memory ~ 9.145698547363281 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.69
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 207 ms
+ Memory ~ 10.352706909179688 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.68
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 170 ms
+ Memory ~ 11.684913635253906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.67
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 204 ms
+ Memory ~ 12.892005920410156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.66
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 170 ms
+ Memory ~ 12.907386779785156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.65
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 211 ms
+ Memory ~ 14.081962585449219 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.64
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 206 ms
+ Memory ~ 14.129356384277344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.63
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 225 ms
+ Memory ~ 19.077186584472656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.62
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 198 ms
+ Memory ~ 20.407066345214844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.61
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 185 ms
+ Memory ~ 20.344886779785156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.6
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 221 ms
+ Memory ~ 20.34467315673828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.59
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 221 ms
+ Memory ~ 20.360206604003906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.58
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 214 ms
+ Memory ~ 21.580612182617188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.57
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 213 ms
+ Memory ~ 21.611770629882812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.56
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 207 ms
+ Memory ~ 21.549072265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.55
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 188 ms
+ Memory ~ 21.627410888671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.54
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 216 ms
+ Memory ~ 24.096519470214844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.53
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 215 ms
+ Memory ~ 24.12818145751953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.52
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 199 ms
+ Memory ~ 24.096954345703125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.51
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 196 ms
+ Memory ~ 24.09685516357422 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.5
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 194 ms
+ Memory ~ 24.11168670654297 MB
+ High-utility itemsets count : 0
+ Candidate count : 13
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.49
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 195 ms
+ Memory ~ 24.065650939941406 MB
+ High-utility itemsets count : 0
+ Candidate count : 14
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.48
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 199 ms
+ Memory ~ 23.987571716308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 15
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.47
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 242 ms
+ Memory ~ 26.57817840576172 MB
+ High-utility itemsets count : 0
+ Candidate count : 71
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.46
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 271 ms
+ Memory ~ 26.531341552734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 125
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.45
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 282 ms
+ Memory ~ 26.609695434570312 MB
+ High-utility itemsets count : 0
+ Candidate count : 262
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.44
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 282 ms
+ Memory ~ 26.593475341796875 MB
+ High-utility itemsets count : 0
+ Candidate count : 348
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.43
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 286 ms
+ Memory ~ 27.794509887695312 MB
+ High-utility itemsets count : 0
+ Candidate count : 441
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.42
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 297 ms
+ Memory ~ 27.810508728027344 MB
+ High-utility itemsets count : 0
+ Candidate count : 457
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.41
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 335 ms
+ Memory ~ 26.871444702148438 MB
+ High-utility itemsets count : 0
+ Candidate count : 526
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.4
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 308 ms
+ Memory ~ 29.00061798095703 MB
+ High-utility itemsets count : 0
+ Candidate count : 538
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.39
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 306 ms
+ Memory ~ 30.231033325195312 MB
+ High-utility itemsets count : 0
+ Candidate count : 731
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.38
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 303 ms
+ Memory ~ 33.893089294433594 MB
+ High-utility itemsets count : 0
+ Candidate count : 871
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.37
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 323 ms
+ Memory ~ 33.877098083496094 MB
+ High-utility itemsets count : 0
+ Candidate count : 1152
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.36
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 342 ms
+ Memory ~ 36.39429473876953 MB
+ High-utility itemsets count : 0
+ Candidate count : 1570
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.35
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 364 ms
+ Memory ~ 36.316253662109375 MB
+ High-utility itemsets count : 0
+ Candidate count : 2196
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.34
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 407 ms
+ Memory ~ 37.84620666503906 MB
+ High-utility itemsets count : 0
+ Candidate count : 2898
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.33
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 453 ms
+ Memory ~ 39.973487854003906 MB
+ High-utility itemsets count : 0
+ Candidate count : 4031
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.32
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 567 ms
+ Memory ~ 41.23002624511719 MB
+ High-utility itemsets count : 12
+ Candidate count : 6242
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.31
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 730 ms
+ Memory ~ 43.72666931152344 MB
+ High-utility itemsets count : 68
+ Candidate count : 9891
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.3
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 890 ms
+ Memory ~ 45.64080047607422 MB
+ High-utility itemsets count : 176
+ Candidate count : 14941
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.29
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1299 ms
+ Memory ~ 45.625762939453125 MB
+ High-utility itemsets count : 493
+ Candidate count : 23379
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.28
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1686 ms
+ Memory ~ 46.83146667480469 MB
+ High-utility itemsets count : 1246
+ Candidate count : 37566
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.27
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2554 ms
+ Memory ~ 48.02223205566406 MB
+ High-utility itemsets count : 2875
+ Candidate count : 60305
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.26
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 3765 ms
+ Memory ~ 50.41523742675781 MB
+ High-utility itemsets count : 6406
+ Candidate count : 100544
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.25
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6169 ms
+ Memory ~ 54.669097900390625 MB
+ High-utility itemsets count : 14122
+ Candidate count : 166718
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.24
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 9978 ms
+ Memory ~ 61.73359680175781 MB
+ High-utility itemsets count : 28432
+ Candidate count : 272071
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.23
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 13851 ms
+ Memory ~ 66.3797378540039 MB
+ High-utility itemsets count : 56398
+ Candidate count : 438355
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.22
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 22423 ms
+ Memory ~ 66.44754791259766 MB
+ High-utility itemsets count : 104240
+ Candidate count : 693896
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.21
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 34321 ms
+ Memory ~ 74.86485290527344 MB
+ High-utility itemsets count : 189808
+ Candidate count : 1101828
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.2
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 55718 ms
+ Memory ~ 132.67115783691406 MB
+ High-utility itemsets count : 332258
+ Candidate count : 1725972
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.19
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 79719 ms
+ Memory ~ 136.36587524414062 MB
+ High-utility itemsets count : 580044
+ Candidate count : 2733454
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.18
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 115457 ms
+ Memory ~ 136.5786895751953 MB
+ High-utility itemsets count : 996308
+ Candidate count : 4342956
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.17
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 176324 ms
+ Memory ~ 136.5552520751953 MB
+ High-utility itemsets count : 1724222
+ Candidate count : 7001928
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.16
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 276616 ms
+ Memory ~ 136.54791259765625 MB
+ High-utility itemsets count : 3006948
+ Candidate count : 11417721
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.15
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 410029 ms
+ Memory ~ 136.49322509765625 MB
+ High-utility itemsets count : 5299175
+ Candidate count : 18733021
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.14
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 658945 ms
+ Memory ~ 135.84461975097656 MB
+ High-utility itemsets count : 9437741
+ Candidate count : 30942841
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.13
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1019520 ms
+ Memory ~ 134.01097869873047 MB
+ High-utility itemsets count : 16927941
+ Candidate count : 51557985
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.12
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1659181 ms
+ Memory ~ 133.8156967163086 MB
+ High-utility itemsets count : 30707616
+ Candidate count : 87394350
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.11
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2487977 ms
+ Memory ~ 71.73356628417969 MB
+ High-utility itemsets count : 56765831
+ Candidate count : 151332545
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.1
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 3982469 ms
+ Memory ~ 133.8038787841797 MB
+ High-utility itemsets count : 107440175
+ Candidate count : 267743706
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.09
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6569368 ms
+ Memory ~ 132.98353576660156 MB
+ High-utility itemsets count : 208863235
+ Candidate count : 485115171
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.08
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 10925271 ms
+ Memory ~ 70.64240264892578 MB
+ High-utility itemsets count : 418907451
+ Candidate count : 907495553
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.07
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 17740082 ms
+ Memory ~ 70.10731506347656 MB
+ High-utility itemsets count : 876696610
+ Candidate count : 1774827674
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.06

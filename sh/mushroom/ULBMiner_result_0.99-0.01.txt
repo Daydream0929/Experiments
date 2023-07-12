@@ -1,0 +1,700 @@
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 185 ms
+ Memory ~ 13.164382934570312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 1
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 182 ms
+ Memory ~ 12.482063293457031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.99
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 183 ms
+ Memory ~ 12.528556823730469 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.98
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 192 ms
+ Memory ~ 14.152679443359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.97
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 195 ms
+ Memory ~ 14.1370849609375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.96
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 14.13739013671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.95
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 187 ms
+ Memory ~ 14.106201171875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.94
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 187 ms
+ Memory ~ 14.183837890625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.93
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 206 ms
+ Memory ~ 14.365776062011719 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.92
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 196 ms
+ Memory ~ 14.30413818359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.91
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 195 ms
+ Memory ~ 14.444038391113281 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.9
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 187 ms
+ Memory ~ 14.334457397460938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.89
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 195 ms
+ Memory ~ 14.350257873535156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.88
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 205 ms
+ Memory ~ 14.366279602050781 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.87
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 194 ms
+ Memory ~ 14.412818908691406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.86
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 156 ms
+ Memory ~ 14.397209167480469 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.85
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 196 ms
+ Memory ~ 16.384674072265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.84
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 208 ms
+ Memory ~ 16.446937561035156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.83
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 16.38506317138672 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.82
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 204 ms
+ Memory ~ 16.36902618408203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.81
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 16.431488037109375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.8
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 211 ms
+ Memory ~ 16.368865966796875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.79
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 198 ms
+ Memory ~ 16.353355407714844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.78
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 203 ms
+ Memory ~ 16.43164825439453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.77
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 16.35382080078125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.76
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 217 ms
+ Memory ~ 15.827033996582031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.75
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 205 ms
+ Memory ~ 16.38526153564453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.74
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 198 ms
+ Memory ~ 15.717765808105469 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.73
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 205 ms
+ Memory ~ 16.431594848632812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.72
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 199 ms
+ Memory ~ 17.09178924560547 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.71
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 154 ms
+ Memory ~ 16.583816528320312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.7
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 163 ms
+ Memory ~ 17.076217651367188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.69
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 203 ms
+ Memory ~ 17.789283752441406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.68
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 195 ms
+ Memory ~ 17.7740478515625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.67
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 197 ms
+ Memory ~ 17.727645874023438 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.66
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 200 ms
+ Memory ~ 17.696487426757812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.65
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 203 ms
+ Memory ~ 17.287696838378906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.64
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 213 ms
+ Memory ~ 17.923133850097656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.63
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 218 ms
+ Memory ~ 20.245948791503906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.62
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 208 ms
+ Memory ~ 19.260902404785156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.61
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 212 ms
+ Memory ~ 19.2294921875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.6
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 207 ms
+ Memory ~ 19.307113647460938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.59
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 210 ms
+ Memory ~ 20.56493377685547 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.58
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 213 ms
+ Memory ~ 20.62664794921875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.57
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 219 ms
+ Memory ~ 20.168067932128906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.56
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 224 ms
+ Memory ~ 20.725364685058594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.55
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 176 ms
+ Memory ~ 19.727569580078125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.54
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 217 ms
+ Memory ~ 23.406639099121094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.53
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 210 ms
+ Memory ~ 23.37580108642578 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.52
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 221 ms
+ Memory ~ 24.08873748779297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.51
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 255 ms
+ Memory ~ 26.73375701904297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.5
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 212 ms
+ Memory ~ 28.603843688964844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.49
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 244 ms
+ Memory ~ 28.63536834716797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.48
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 233 ms
+ Memory ~ 28.69806671142578 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.47
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 228 ms
+ Memory ~ 29.73321533203125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.46
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 194 ms
+ Memory ~ 30.62493896484375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.45
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 227 ms
+ Memory ~ 30.085906982421875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.44
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 192 ms
+ Memory ~ 33.77409362792969 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.43
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 230 ms
+ Memory ~ 32.598297119140625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.42
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 188 ms
+ Memory ~ 35.83497619628906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.41
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 247 ms
+ Memory ~ 36.54124450683594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.4
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 252 ms
+ Memory ~ 37.77687072753906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.39
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 242 ms
+ Memory ~ 37.834259033203125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.38
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 244 ms
+ Memory ~ 37.85222625732422 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.37
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 243 ms
+ Memory ~ 37.881561279296875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.36
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 197 ms
+ Memory ~ 37.78846740722656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.35
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 239 ms
+ Memory ~ 38.17174530029297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.34
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 245 ms
+ Memory ~ 37.21343231201172 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.33
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 243 ms
+ Memory ~ 38.51963806152344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.32
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 240 ms
+ Memory ~ 39.15606689453125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.31
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 197 ms
+ Memory ~ 39.75951385498047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.3
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 256 ms
+ Memory ~ 41.71772003173828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.29
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 248 ms
+ Memory ~ 46.75532531738281 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.28
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 278 ms
+ Memory ~ 47.987701416015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 17
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.27
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 280 ms
+ Memory ~ 48.03746795654297 MB
+ High-utility itemsets count : 0
+ Candidate count : 19
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.26
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 287 ms
+ Memory ~ 49.9598388671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 36
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.25
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 350 ms
+ Memory ~ 51.258445739746094 MB
+ High-utility itemsets count : 0
+ Candidate count : 52
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.24
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 279 ms
+ Memory ~ 53.16327667236328 MB
+ High-utility itemsets count : 0
+ Candidate count : 57
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.23
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 306 ms
+ Memory ~ 55.715919494628906 MB
+ High-utility itemsets count : 0
+ Candidate count : 85
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.22
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 306 ms
+ Memory ~ 55.677772521972656 MB
+ High-utility itemsets count : 0
+ Candidate count : 101
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.21
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 338 ms
+ Memory ~ 55.648292541503906 MB
+ High-utility itemsets count : 0
+ Candidate count : 133
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.2
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 321 ms
+ Memory ~ 57.61466979980469 MB
+ High-utility itemsets count : 0
+ Candidate count : 195
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.19
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 385 ms
+ Memory ~ 60.62847900390625 MB
+ High-utility itemsets count : 0
+ Candidate count : 339
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.18
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 375 ms
+ Memory ~ 60.602439880371094 MB
+ High-utility itemsets count : 0
+ Candidate count : 451
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.17
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 427 ms
+ Memory ~ 64.80619812011719 MB
+ High-utility itemsets count : 21
+ Candidate count : 732
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.16
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 391 ms
+ Memory ~ 66.20003509521484 MB
+ High-utility itemsets count : 88
+ Candidate count : 1162
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.15
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 445 ms
+ Memory ~ 66.79972839355469 MB
+ High-utility itemsets count : 415
+ Candidate count : 2284
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.14
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 598 ms
+ Memory ~ 68.06135559082031 MB
+ High-utility itemsets count : 1152
+ Candidate count : 4716
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.13
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 636 ms
+ Memory ~ 68.07804870605469 MB
+ High-utility itemsets count : 2726
+ Candidate count : 7916
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.12
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 856 ms
+ Memory ~ 66.95653533935547 MB
+ High-utility itemsets count : 5801
+ Candidate count : 13624
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.11
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1181 ms
+ Memory ~ 66.35565185546875 MB
+ High-utility itemsets count : 9594
+ Candidate count : 19520
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.1
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1402 ms
+ Memory ~ 67.58860778808594 MB
+ High-utility itemsets count : 15318
+ Candidate count : 27908
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.09
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 1734 ms
+ Memory ~ 68.22817993164062 MB
+ High-utility itemsets count : 22919
+ Candidate count : 41955
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.08
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 2441 ms
+ Memory ~ 67.18267059326172 MB
+ High-utility itemsets count : 39171
+ Candidate count : 76892
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.07
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 3951 ms
+ Memory ~ 68.38720703125 MB
+ High-utility itemsets count : 83844
+ Candidate count : 154649
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.06
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 6806 ms
+ Memory ~ 83.27556610107422 MB
+ High-utility itemsets count : 175387
+ Candidate count : 293071
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.05
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 11049 ms
+ Memory ~ 130.64785766601562 MB
+ High-utility itemsets count : 374613
+ Candidate count : 611716
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.04
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 20255 ms
+ Memory ~ 154.01705169677734 MB
+ High-utility itemsets count : 977990
+ Candidate count : 1488125
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.03
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 50674 ms
+ Memory ~ 508.23876190185547 MB
+ High-utility itemsets count : 3295468
+ Candidate count : 4868496
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.02
+=============  ULB-Miner ALGORITHM - SPMF 0.2.19 - STATS =============
+ Total time ~ 151662 ms
+ Memory ~ 998.5019378662109 MB
+ High-utility itemsets count : 19583932
+ Candidate count : 26510166
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.01
