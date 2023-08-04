@@ -1,0 +1,77 @@
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 2409 ms
+ Memory ~ 190.64755249023438 MB
+ High-utility itemsets count : 68
+ Join count : 10335
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.3
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 3339 ms
+ Memory ~ 221.6953125 MB
+ High-utility itemsets count : 176
+ Join count : 15526
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.29
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 5346 ms
+ Memory ~ 259.143798828125 MB
+ High-utility itemsets count : 493
+ Join count : 24143
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.28
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 7848 ms
+ Memory ~ 222.65196228027344 MB
+ High-utility itemsets count : 1246
+ Join count : 38602
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.27
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 11435 ms
+ Memory ~ 209.9971923828125 MB
+ High-utility itemsets count : 2875
+ Join count : 61501
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.26
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 19204 ms
+ Memory ~ 202.19935607910156 MB
+ High-utility itemsets count : 6406
+ Join count : 102249
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.25
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 31618 ms
+ Memory ~ 214.32177734375 MB
+ High-utility itemsets count : 14122
+ Join count : 169003
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.24
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 50396 ms
+ Memory ~ 219.6376953125 MB
+ High-utility itemsets count : 28432
+ Join count : 275191
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.23
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 78615 ms
+ Memory ~ 232.30859375 MB
+ High-utility itemsets count : 56398
+ Join count : 442626
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.22
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 120496 ms
+ Memory ~ 266.7626953125 MB
+ High-utility itemsets count : 104240
+ Join count : 699677
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.21
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 185312 ms
+ Memory ~ 243.87646484375 MB
+ High-utility itemsets count : 189808
+ Join count : 1110522
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.2

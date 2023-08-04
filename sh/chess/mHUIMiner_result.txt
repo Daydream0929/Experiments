@@ -1,0 +1,99 @@
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 646997
+ Total time ~ 1666 ms
+ Memory ~ 231.232421875 MB
+ Join count: 10326
+ HUIs count : 68
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.3
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 625431
+ Total time ~ 2446 ms
+ Memory ~ 240.2393341064453 MB
+ Join count: 15514
+ HUIs count : 176
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.29
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 603864
+ Total time ~ 3013 ms
+ Memory ~ 300.3079528808594 MB
+ Join count: 24129
+ HUIs count : 493
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.28
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 582297
+ Total time ~ 4316 ms
+ Memory ~ 336.64549255371094 MB
+ Join count: 38588
+ HUIs count : 1246
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.27
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 560731
+ Total time ~ 6450 ms
+ Memory ~ 345.5555419921875 MB
+ Join count: 61487
+ HUIs count : 2875
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.26
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 539164
+ Total time ~ 11493 ms
+ Memory ~ 329.5008850097656 MB
+ Join count: 102234
+ HUIs count : 6406
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.25
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 517598
+ Total time ~ 20294 ms
+ Memory ~ 306.42601776123047 MB
+ Join count: 168986
+ HUIs count : 14122
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.24
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 496031
+ Total time ~ 26098 ms
+ Memory ~ 338.67529296875 MB
+ Join count: 275170
+ HUIs count : 28432
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.23
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 474464
+ Total time ~ 39263 ms
+ Memory ~ 375.6396789550781 MB
+ Join count: 442601
+ HUIs count : 56398
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.22
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 452898
+ Total time ~ 75157 ms
+ Memory ~ 313.70391845703125 MB
+ Join count: 699652
+ HUIs count : 104240
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.21
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 2156659
+ Minimum utility: 431331
+ Total time ~ 114543 ms
+ Memory ~ 309.66688537597656 MB
+ Join count: 1110494
+ HUIs count : 189808
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.2
