@@ -1,0 +1,63 @@
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 459 ms
+ Memory ~ 21.65740966796875 MB
+ High-utility itemsets count : 233231
+ Candidate count : 264586
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000010 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 446 ms
+ Memory ~ 22.177291870117188 MB
+ High-utility itemsets count : 233230
+ Candidate count : 264586
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000011 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 460 ms
+ Memory ~ 22.177291870117188 MB
+ High-utility itemsets count : 233230
+ Candidate count : 264586
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000012 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 517 ms
+ Memory ~ 22.177291870117188 MB
+ High-utility itemsets count : 233228
+ Candidate count : 264584
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000013 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 483 ms
+ Memory ~ 22.177291870117188 MB
+ High-utility itemsets count : 233228
+ Candidate count : 264584
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000014 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 485 ms
+ Memory ~ 21.65740966796875 MB
+ High-utility itemsets count : 233226
+ Candidate count : 264583
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000015 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 498 ms
+ Memory ~ 21.65740966796875 MB
+ High-utility itemsets count : 233224
+ Candidate count : 264583
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000016 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 481 ms
+ Memory ~ 21.65740966796875 MB
+ High-utility itemsets count : 233218
+ Candidate count : 264582
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000017 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 480 ms
+ Memory ~ 22.177291870117188 MB
+ High-utility itemsets count : 233210
+ Candidate count : 264577
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000018 and p_size 63

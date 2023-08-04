@@ -1,0 +1,81 @@
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 12011023
+ Minimum utility: 120
+ Total time ~ 531 ms
+ Memory ~ 147.50147247314453 MB
+ Join count: 231672
+ HUIs count : 233231
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000010
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 12011023
+ Minimum utility: 132
+ Total time ~ 574 ms
+ Memory ~ 147.4967498779297 MB
+ Join count: 231672
+ HUIs count : 233230
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000011
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 12011023
+ Minimum utility: 144
+ Total time ~ 565 ms
+ Memory ~ 147.48817443847656 MB
+ Join count: 231672
+ HUIs count : 233230
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000012
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 12011023
+ Minimum utility: 156
+ Total time ~ 518 ms
+ Memory ~ 147.5021743774414 MB
+ Join count: 231672
+ HUIs count : 233228
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000013
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 12011023
+ Minimum utility: 168
+ Total time ~ 493 ms
+ Memory ~ 147.49442291259766 MB
+ Join count: 231672
+ HUIs count : 233228
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000014
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 12011023
+ Minimum utility: 180
+ Total time ~ 526 ms
+ Memory ~   147247314453 MB
+ Join count: 231672
+ HUIs count : 233226
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000015
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 12011023
+ Minimum utility: 192
+ Total time ~ 494 ms
+ Memory ~ 147.50147247314453 MB
+ Join count: 231672
+ HUIs count : 233224
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000016
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 12011023
+ Minimum utility: 204
+ Total time ~ 506 ms
+ Memory ~ 147.4991455078125 MB
+ Join count: 231672
+ HUIs count : 233218
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000017
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 12011023
+ Minimum utility: 216
+ Total time ~ 569 ms
+ Memory ~ 147.50147247314453 MB
+ Join count: 231672
+ HUIs count : 233210
+===================================================
+Finished processing ../../data/input/foodmart.txt with arg 0.000018

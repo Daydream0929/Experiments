@@ -1,0 +1,541 @@
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1433.8113250732422 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 1 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 654.0411224365234 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.99 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 734.2104644775391 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.98 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 997.5165100097656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.97 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1078.2517852783203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.96 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1348.7875442504883 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.95 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1051.1173706054688 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.94 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1395.552490234375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.93 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1306.260986328125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.92 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1021.5016632080078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.91 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 908.0347290039062 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.9 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 990.919548034668 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.89 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1081.4938659667969 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.88 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1024.4174346923828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.87 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 686.5513458251953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.86 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1022.3343963623047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.85 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 604.0469818115234 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.84 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1006.2599487304688 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.83 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1003.1774139404297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.82 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1543.3031463623047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.81 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 978.0157012939453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.8 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 508.0879211425781 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.79 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1563.6845703125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.78 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1160.4474792480469 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.77 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1260.4544067382812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.76 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1176.3930053710938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.75 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 937.6374664306641 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.74 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 949.4635848999023 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.73 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1352.445327758789 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.72 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1255.247802734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.71 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1078.28955078125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.7 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1010.3457260131836 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.69 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1039.9424362182617 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.68 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1233.5376663208008 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.67 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1153.7862548828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.66 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 688.1288146972656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.65 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1599.9996795654297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.64 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 746.5609359741211 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.63 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1110.5018310546875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.62 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1215.22802734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.61 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1206.7578735351562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.6 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1007.4785308837891 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.59 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 814.9204025268555 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.58 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1369.0984573364258 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.57 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1183.8018188476562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.56 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 462.29529571533203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.55 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 915.6410598754883 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.54 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 881.8528137207031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.53 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1160.9060897827148 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.52 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 755.4435119628906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.51 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1491.1226806640625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.5 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1300.2983856201172 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.49 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1613.2871704101562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.48 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1468.3923034667969 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.47 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1174.0912475585938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.46 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 952.1478881835938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.45 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 963.9873504638672 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.44 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 769.0921630859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.43 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 839.5472717285156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.42 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1144.6415481567383 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.41 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 797.0750732421875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.4 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1551.9332885742188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.39 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 850.4008941650391 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.38 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 569.4631500244141 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.37 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 478.79833984375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.36 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1238.2192993164062 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.35 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1130.4796447753906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.34 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1330.6119232177734 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.33 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2264 ms
+ Memory ~ 1769.4541015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 159
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.32 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 9713 ms
+ Memory ~ 1369.54541015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 768
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.31 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 23014 ms
+ Memory ~ 1720.703140258789 MB
+ High-utility itemsets count : 0
+ Candidate count : 1780
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.3 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 39695 ms
+ Memory ~ 1930.20361328125 MB
+ High-utility itemsets count : 0
+ Candidate count : 3084
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.29 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 60717 ms
+ Memory ~ 1780.68701171875 MB
+ High-utility itemsets count : 0
+ Candidate count : 4595
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.28 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 116535 ms
+ Memory ~ 2342.216796875 MB
+ High-utility itemsets count : 0
+ Candidate count : 9446
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.27 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 248235 ms
+ Memory ~ 2909.69580078125 MB
+ High-utility itemsets count : 0
+ Candidate count : 18563
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.26 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 407433 ms
+ Memory ~ 3028.2914428710938 MB
+ High-utility itemsets count : 0
+ Candidate count : 39159
+===================================================
+Finished processing ../../data/input/pumsb.txt with arg 0.25 and p_size 63
+Finished processing ../../data/input/pumsb.txt with arg 0.24 and p_size 63
+Finished processing ../../data/input/pumsb.txt with arg 0.23 and p_size 63
+Finished processing ../../data/input/pumsb.txt with arg 0.22 and p_size 63
+Finished processing ../../data/input/pumsb.txt with arg 0.21 and p_size 63
+Finished processing ../../data/input/pumsb.txt with arg 0.2 and p_size 63
+Finished processing ../../data/input/pumsb.txt with arg 0.19 and p_size 63
+Finished processing ../../data/input/pumsb.txt with arg 0.18 and p_size 63
+Finished processing ../../data/input/pumsb.txt with arg 0.17 and p_size 63
+Finished processing ../../data/input/pumsb.txt with arg 0.16 and p_size 63

@@ -1,0 +1,700 @@
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.71720123291016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 1 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.56149291992188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.99 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.71095275878906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.98 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.22073364257812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.97 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.21915435791016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.96 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 139.06344604492188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.95 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.71720123291016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.94 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 137.71095275878906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.93 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.06256866455078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.92 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.57050323486328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.91 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.5630874633789 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.9 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.22698211669922 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.89 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.56729888916016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.88 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.2332305908203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.87 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 139.21915435791016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.86 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 137.56404876708984 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.85 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.72502899169922 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.84 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 139.0687026977539 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.83 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.06031036376953 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.82 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.7266082763672 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.81 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.22073364257812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.8 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.71095275878906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.79 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.5639190673828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.78 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.71095275878906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.77 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.71095275878906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.76 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.567138671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.75 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.07140350341797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.74 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.0657730102539 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.73 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.5592803955078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.72 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.22073364257812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.71 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 139.0716781616211 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.7 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 137.71878051757812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.69 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.71720123291016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.68 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.71720123291016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.67 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 139.56227111816406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.66 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.56507110595703 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.65 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.57459259033203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.64 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.07361602783203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.63 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.71878051757812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.62 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.07029724121094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.61 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 139.0658721923828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.6 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.57085418701172 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.59 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.71290588378906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.58 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.22073364257812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.57 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 137.10093688964844 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.56 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.57231903076172 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.55 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.21290588378906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.54 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 139.06809997558594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.53 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.22073364257812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.52 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 137.72502899169922 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.51 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.57005310058594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.5 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.71095275878906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.49 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.71720123291016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.48 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.56851959228516 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.47 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.57364654541016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.46 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.56541442871094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.45 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.21915435791016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.44 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.21290588378906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.43 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 137.71095275878906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.42 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.22073364257812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.41 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.57131958007812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.4 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 137.567138671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.39 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.22073364257812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.38 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.72502899169922 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.37 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 139.06969451904297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.36 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 138.20509338378906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.35 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.5592803955078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.34 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.072021484375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.33 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 137.21915435791016 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.32 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 137.72502899169922 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.31 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 139.06521606445312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.3 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.5630874633789 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.29 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.56839752197266 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.28 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.22698211669922 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.27 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 138.0595245361328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.26 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 18 ms
+ Memory ~ 31.88427734375 MB
+ High-utility itemsets count : 0
+ Candidate count : 8
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.25 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 122 ms
+ Memory ~ 49.73291015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 36
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.24 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 106 ms
+ Memory ~ 63.09278869628906 MB
+ High-utility itemsets count : 0
+ Candidate count : 57
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.23 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 101 ms
+ Memory ~ 67.98291015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 65
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.22 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 108 ms
+ Memory ~ 75.06689453125 MB
+ High-utility itemsets count : 0
+ Candidate count : 79
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.21 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 156 ms
+ Memory ~ 102.3076171875 MB
+ High-utility itemsets count : 0
+ Candidate count : 139
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.2 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 249 ms
+ Memory ~ 84.62841796875 MB
+ High-utility itemsets count : 0
+ Candidate count : 196
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.19 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 372 ms
+ Memory ~ 131.421875 MB
+ High-utility itemsets count : 0
+ Candidate count : 342
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.18 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 438 ms
+ Memory ~ 129.486328125 MB
+ High-utility itemsets count : 0
+ Candidate count : 460
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.17 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 723 ms
+ Memory ~ 145.9912109375 MB
+ High-utility itemsets count : 21
+ Candidate count : 765
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.16 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1233 ms
+ Memory ~ 182.27532958984375 MB
+ High-utility itemsets count : 88
+ Candidate count : 1266
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.15 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1392 ms
+ Memory ~ 287.0304412841797 MB
+ High-utility itemsets count : 415
+ Candidate count : 2370
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.14 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2384 ms
+ Memory ~ 452.4952163696289 MB
+ High-utility itemsets count : 1152
+ Candidate count : 4783
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.13 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3477 ms
+ Memory ~ 363.9031066894531 MB
+ High-utility itemsets count : 2726
+ Candidate count : 8051
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.12 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 6530 ms
+ Memory ~ 458.6708984375 MB
+ High-utility itemsets count : 5801
+ Candidate count : 13856
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.11 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 9086 ms
+ Memory ~ 343.85595703125 MB
+ High-utility itemsets count : 9594
+ Candidate count : 19943
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.1 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 11290 ms
+ Memory ~ 466.5478515625 MB
+ High-utility itemsets count : 15318
+ Candidate count : 28601
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.09 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 16682 ms
+ Memory ~ 547.057373046875 MB
+ High-utility itemsets count : 22919
+ Candidate count : 43196
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.08 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 24990 ms
+ Memory ~ 456.3938293457031 MB
+ High-utility itemsets count : 39171
+ Candidate count : 78899
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.07 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 42933 ms
+ Memory ~ 619.37841796875 MB
+ High-utility itemsets count : 83844
+ Candidate count : 158444
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.06 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 74643 ms
+ Memory ~ 502.94189453125 MB
+ High-utility itemsets count : 175387
+ Candidate count : 301877
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.05 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 127479 ms
+ Memory ~ 547.9482421875 MB
+ High-utility itemsets count : 374613
+ Candidate count : 628538
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.04 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 247889 ms
+ Memory ~ 642.1447219848633 MB
+ High-utility itemsets count : 977990
+ Candidate count : 1520045
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.03 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 588336 ms
+ Memory ~ 658.3056640625 MB
+ High-utility itemsets count : 3295468
+ Candidate count : 4961964
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.02 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1458015 ms
+ Memory ~ 615.1044921875 MB
+ High-utility itemsets count : 19583932
+ Candidate count : 26828833
+===================================================
+Finished processing ../../data/input/mushroom.txt with arg 0.01 and p_size 63

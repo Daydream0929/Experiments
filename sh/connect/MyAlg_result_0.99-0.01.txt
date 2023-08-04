@@ -1,0 +1,493 @@
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 937.0909729003906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 1 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 698.1084671020508 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.99 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 563.4283905029297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.98 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 921.3758773803711 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.97 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 789.137939453125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.96 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 516.1354522705078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.95 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 401.8087615966797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.94 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 630.9362487792969 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.93 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 620.5170669555664 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.92 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 746.6233978271484 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.91 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 796.5288238525391 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.9 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1125.3316955566406 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.89 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1058.0284423828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.88 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 708.884521484375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.87 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 873.5657196044922 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.86 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 765.3866119384766 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.85 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 407.6309509277344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.84 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 438.07335662841797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.83 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 455.42333984375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.82 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1000.0530319213867 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.81 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 593.0912475585938 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.8 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1018.7504959106445 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.79 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 928.0828552246094 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.78 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 336.0088424682617 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.77 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 825.6083984375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.76 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 702.5254211425781 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.75 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 897.1194152832031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.74 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 850.5082702636719 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.73 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 959.685546875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.72 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2 ms
+ Memory ~ 322.8100128173828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.71 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 514.085693359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.7 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 472.605712890625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.69 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 638.8197250366211 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.68 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 960.3930206298828 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.67 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 882.3445434570312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.66 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 649.734992980957 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.65 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1180.2793197631836 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.64 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 787.3206176757812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.63 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 870.0930786132812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.62 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 971.7927856445312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.61 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 619.9430084228516 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.6 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 454.6378936767578 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.59 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 945.3679809570312 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.58 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 546.55322265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.57 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 826.643310546875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.56 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 794.33447265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.55 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 775.1799697875977 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.54 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 891.8827133178711 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.53 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 557.8706665039062 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.52 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 494 ms
+ Memory ~ 1021.8228607177734 MB
+ High-utility itemsets count : 0
+ Candidate count : 10
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.51 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1822 ms
+ Memory ~ 1108.697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 96
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.5 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2730 ms
+ Memory ~ 1302.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 135
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.49 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4586 ms
+ Memory ~ 1255.1953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 219
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.48 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 5812 ms
+ Memory ~ 1380.697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 274
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.47 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 7748 ms
+ Memory ~ 1218.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 345
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.46 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 7786 ms
+ Memory ~ 1355.697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 362
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.45 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 8282 ms
+ Memory ~ 1307.8525390625 MB
+ High-utility itemsets count : 0
+ Candidate count : 412
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.44 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 9293 ms
+ Memory ~ 1338.6240234375 MB
+ High-utility itemsets count : 0
+ Candidate count : 471
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.43 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 15217 ms
+ Memory ~ 1515.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 651
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.42 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 18764 ms
+ Memory ~ 1465.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 868
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.41 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 27687 ms
+ Memory ~ 1448.1953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 1266
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.4 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 37571 ms
+ Memory ~ 1510.93115234375 MB
+ High-utility itemsets count : 0
+ Candidate count : 1757
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.39 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 49339 ms
+ Memory ~ 1667.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 2205
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.38 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 66404 ms
+ Memory ~ 2077.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 3067
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.37 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 164762 ms
+ Memory ~ 2467.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 4449
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.36 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 139945 ms
+ Memory ~ 2066.697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 6813
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.35 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 216391 ms
+ Memory ~ 3205.1953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 10514
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.34 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 341574 ms
+ Memory ~ 3044.197265625 MB
+ High-utility itemsets count : 9
+ Candidate count : 16847
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.33 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 645127 ms
+ Memory ~ 3076.7373046875 MB
+ High-utility itemsets count : 171
+ Candidate count : 31711
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.32 and p_size 63
+Finished processing ../../data/input/connect.txt with arg 0.31 and p_size 63
+Finished processing ../../data/input/connect.txt with arg 0.3 and p_size 63
+Finished processing ../../data/input/connect.txt with arg 0.29 and p_size 63
+Finished processing ../../data/input/connect.txt with arg 0.28 and p_size 63
+Finished processing ../../data/input/connect.txt with arg 0.27 and p_size 63
+Finished processing ../../data/input/connect.txt with arg 0.26 and p_size 63
+Finished processing ../../data/input/connect.txt with arg 0.25 and p_size 63
+Finished processing ../../data/input/connect.txt with arg 0.24 and p_size 63
+Finished processing ../../data/input/connect.txt with arg 0.23 and p_size 63
+Finished processing ../../data/input/connect.txt with arg 0.22 and p_size 63

@@ -1,0 +1,622 @@
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1895.688835144043 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 1 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 2188.6649475097656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.99 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1824.5006866455078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.98 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1640.5615692138672 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.97 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1941.8302536010742 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.96 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2047.5159454345703 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.95 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2257.030227661133 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.94 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2393.670654296875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.93 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2449.4076385498047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.92 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2294.697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.91 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1816.8233489990234 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.9 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1637.3097381591797 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.89 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1489.9613037109375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.88 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1447.2946472167969 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.87 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 2104.61376953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.86 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1500.697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.85 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1826.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.84 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1438.1614990234375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.83 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1222.6218338012695 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.82 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2162.8770141601562 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.81 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2388.071746826172 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.8 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1438.8251647949219 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.79 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1691.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.78 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1408.596206665039 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.77 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2085.5518646240234 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.76 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2483.8061447143555 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.75 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2225.0578002929688 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.74 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2515.284568786621 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.73 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2166.316680908203 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.72 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2220.4097747802734 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.71 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1373.8351593017578 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.7 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1650.5958786010742 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.69 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1967.2083435058594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.68 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1977.1335525512695 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.67 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1407.1689682006836 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.66 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1816.1247329711914 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.65 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2175.6585388183594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.64 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2352.5662689208984 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.63 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1604.538459777832 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.62 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1944.7259216308594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.61 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2230.105583190918 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.6 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1902.1893463134766 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.59 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 1928.5800018310547 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.58 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2349.950584411621 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.57 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1275.3827896118164 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.56 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1586.709373474121 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.55 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2330.7481231689453 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.54 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2024.94580078125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.53 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1951.189712524414 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.52 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1333.697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.51 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1620.3468933105469 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.5 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1925.5166244506836 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.49 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1351.1494445800781 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.48 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2042.272201538086 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.47 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1906.939697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.46 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2219.9372634887695 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.45 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2214.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.44 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1507.697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.43 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1 ms
+ Memory ~ 2314.4016647338867 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.42 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2159.455078125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.41 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1357.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.4 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 2076.3815307617188 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.39 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1537.3068008422852 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.38 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1813.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.37 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1245.813087463379 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.36 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1512.855224609375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.35 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1474.612808227539 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.34 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 0 ms
+ Memory ~ 1220.5647583007812 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.33 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 152 ms
+ Memory ~ 2117.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 3
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.32 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 189 ms
+ Memory ~ 2406.41943359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 4
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.31 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 820 ms
+ Memory ~ 2313.8935546875 MB
+ High-utility itemsets count : 0
+ Candidate count : 18
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.3 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1427 ms
+ Memory ~ 2462.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 31
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.29 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4484 ms
+ Memory ~ 2904.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 105
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.28 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 8037 ms
+ Memory ~ 3252.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 188
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.27 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 9339 ms
+ Memory ~ 3236.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 217
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.26 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 11120 ms
+ Memory ~ 3386.1953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 265
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.25 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 12067 ms
+ Memory ~ 3612.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 294
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.24 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 13077 ms
+ Memory ~ 3740.697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 314
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.23 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 16378 ms
+ Memory ~ 3650.697265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 387
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.22 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 23119 ms
+ Memory ~ 3497.2022018432617 MB
+ High-utility itemsets count : 0
+ Candidate count : 552
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.21 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 33644 ms
+ Memory ~ 3782.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 803
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.2 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 43279 ms
+ Memory ~ 3763.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 1074
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.19 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 57488 ms
+ Memory ~ 3762.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 1378
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.18 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 89445 ms
+ Memory ~ 3686.4744873046875 MB
+ High-utility itemsets count : 0
+ Candidate count : 1983
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.17 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 164225 ms
+ Memory ~ 3811.2284393310547 MB
+ High-utility itemsets count : 0
+ Candidate count : 2880
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.16 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 314655 ms
+ Memory ~ 3841.6953125 MB
+ High-utility itemsets count : 9
+ Candidate count : 4327
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.15 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.14 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 945961 ms
+ Memory ~ 3871.155876159668 MB
+ High-utility itemsets count : 189
+ Candidate count : 10680
+===================================================
+Finished processing ../../data/input/accidents.txt with arg 0.13 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.12 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.11 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.1 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.09 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.08 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.07 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.06 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.05 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.04 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.03 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.02 and p_size 63
+Finished processing ../../data/input/accidents.txt with arg 0.01 and p_size 63
