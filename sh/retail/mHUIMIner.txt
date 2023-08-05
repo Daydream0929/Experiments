@@ -1,0 +1,201 @@
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 149109
+ Total time ~ 620 ms
+ Memory ~ 100.22073364257812 MB
+ Join count: 46
+ HUIs count : 16
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.010
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 134198
+ Total time ~ 655 ms
+ Memory ~ 100.71878051757812 MB
+ Join count: 48
+ HUIs count : 16
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.009
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 119287
+ Total time ~ 599 ms
+ Memory ~ 100.22698211669922 MB
+ Join count: 71
+ HUIs count : 17
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.008
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 104376
+ Total time ~ 657 ms
+ Memory ~ 100.71878051757812 MB
+ Join count: 126
+ HUIs count : 20
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.007
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 89465
+ Total time ~ 671 ms
+ Memory ~ 100.22073364257812 MB
+ Join count: 209
+ HUIs count : 27
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.006
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 74554
+ Total time ~ 849 ms
+ Memory ~ 101.94566345214844 MB
+ Join count: 999
+ HUIs count : 33
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.005
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 59643
+ Total time ~ 1122 ms
+ Memory ~ 124.02099609375 MB
+ Join count: 3717
+ HUIs count : 41
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.004
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 59643
+ Total time ~ 1063 ms
+ Memory ~ 102.697265625 MB
+ Join count: 3717
+ HUIs count : 41
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.004
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 44732
+ Total time ~ 2015 ms
+ Memory ~ 143.3544921875 MB
+ Join count: 27085
+ HUIs count : 59
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.003
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 29821
+ Total time ~ 7972 ms
+ Memory ~ 202.00215911865234 MB
+ Join count: 343861
+ HUIs count : 114
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.002
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 14910
+ Total time ~ 17697 ms
+ Memory ~ 395.21826934814453 MB
+ Join count: 1607808
+ HUIs count : 434
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.001
+
+
+
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 14910
+ Total time ~ 20810 ms
+ Memory ~ 375.4193572998047 MB
+ Join count: 1607808
+ HUIs count : 434
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0010
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 13419
+ Total time ~ 19512 ms
+ Memory ~ 557.4698333740234 MB
+ Join count: 1797363
+ HUIs count : 525
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0009
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 11928
+ Total time ~ 18883 ms
+ Memory ~ 423.4118347167969 MB
+ Join count: 1989116
+ HUIs count : 655
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0008
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 10437
+ Total time ~ 19050 ms
+ Memory ~ 561.1200332641602 MB
+ Join count: 2191167
+ HUIs count : 856
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0007
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 8946
+ Total time ~ 19357 ms
+ Memory ~ 587.5653076171875 MB
+ Join count: 2380748
+ HUIs count : 1110
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0006
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 7455
+ Total time ~ 21162 ms
+ Memory ~ 577.8504409790039 MB
+ Join count: 2601240
+ HUIs count : 1538
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0005
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 5964
+ Total time ~ 20538 ms
+ Memory ~ 617.9388046264648 MB
+ Join count: 2857720
+ HUIs count : 2272
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0004
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 5964
+ Total time ~ 20783 ms
+ Memory ~ 611.8213119506836 MB
+ Join count: 2857720
+ HUIs count : 2272
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0004
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 4473
+ Total time ~ 22072 ms
+ Memory ~ 592.0110321044922 MB
+ Join count: 3151474
+ HUIs count : 3765
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0003
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 2982
+ Total time ~ 23841 ms
+ Memory ~ 610.4629821777344 MB
+ Join count: 3621350
+ HUIs count : 7375
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0002
+=============  AlgoMHUIMiner v. 2.019 - STATS =============
+ Total utility: 14910915
+ Minimum utility: 1491
+ Total time ~ 24734 ms
+ Memory ~ 604.7254486083984 MB
+ Join count: 6987563
+ HUIs count : 22479
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0001

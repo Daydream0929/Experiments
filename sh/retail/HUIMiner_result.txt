@@ -1,0 +1,156 @@
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 573 ms
+ Memory ~ 37.396820068359375 MB
+ High-utility itemsets count : 16
+ Join count : 46
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.010
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 510 ms
+ Memory ~ 40.397972106933594 MB
+ High-utility itemsets count : 16
+ Join count : 48
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.009
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 561 ms
+ Memory ~ 43.408355712890625 MB
+ High-utility itemsets count : 17
+ Join count : 71
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.008
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 593 ms
+ Memory ~ 47.851226806640625 MB
+ High-utility itemsets count : 20
+ Join count : 126
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.007
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 688 ms
+ Memory ~ 52.807830810546875 MB
+ High-utility itemsets count : 27
+ Join count : 209
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.006
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 731 ms
+ Memory ~ 63.81732177734375 MB
+ High-utility itemsets count : 33
+ Join count : 999
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.005
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 832 ms
+ Memory ~ 77.31920623779297 MB
+ High-utility itemsets count : 41
+ Join count : 3750
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.004
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 881 ms
+ Memory ~ 78.06735229492188 MB
+ High-utility itemsets count : 41
+ Join count : 3750
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.004
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 1905 ms
+ Memory ~ 104.86117553710938 MB
+ High-utility itemsets count : 59
+ Join count : 27920
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.003
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 9760 ms
+ Memory ~ 147.6953125 MB
+ High-utility itemsets count : 114
+ Join count : 453353
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.002
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 33047 ms
+ Memory ~ 239.435546875 MB
+ High-utility itemsets count : 434
+ Join count : 4669789
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.001
+
+
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 35029 ms
+ Memory ~ 272.89776611328125 MB
+ High-utility itemsets count : 434
+ Join count : 4669789
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0010
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 33299 ms
+ Memory ~ 257.09766387939453 MB
+ High-utility itemsets count : 525
+ Join count : 5818423
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0009
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 34219 ms
+ Memory ~ 266.1947021484375 MB
+ High-utility itemsets count : 655
+ Join count : 7205891
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0008
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 36531 ms
+ Memory ~ 280.54783630371094 MB
+ High-utility itemsets count : 856
+ Join count : 8967835
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0007
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 43101 ms
+ Memory ~ 270.0928955078125 MB
+ High-utility itemsets count : 1110
+ Join count : 10973834
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0006
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 35675 ms
+ Memory ~ 290.71531677246094 MB
+ High-utility itemsets count : 1538
+ Join count : 13868956
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0005
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 43201 ms
+ Memory ~ 286.0042724609375 MB
+ High-utility itemsets count : 2272
+ Join count : 18250477
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0004
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 47898 ms
+ Memory ~ 289.02745056152344 MB
+ High-utility itemsets count : 2272
+ Join count : 18250477
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0004
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 53315 ms
+ Memory ~ 301.70738220214844 MB
+ High-utility itemsets count : 3765
+ Join count : 24603743
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0003
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 61692 ms
+ Memory ~ 325.6974639892578 MB
+ High-utility itemsets count : 7375
+ Join count : 36934956
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0002
+=============  HUI-MINER ALGORITHM - STATS =============
+ Total time ~ 68519 ms
+ Memory ~ 309.5540771484375 MB
+ High-utility itemsets count : 22479
+ Join count : 116002989
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0001

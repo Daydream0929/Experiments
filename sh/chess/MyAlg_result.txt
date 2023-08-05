@@ -75,3 +75,66 @@ Finished processing ../../data/input/chess.txt with arg 0.21 and p_size 63
  Candidate count : 1110053
 ===================================================
 Finished processing ../../data/input/chess.txt with arg 0.2 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2452 ms
+ Memory ~ 257.8697280883789 MB
+ High-utility itemsets count : 68
+ Candidate count : 10113
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.3 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3549 ms
+ Memory ~ 74.15165710449219 MB
+ High-utility itemsets count : 176
+ Candidate count : 15244
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.29 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 5308 ms
+ Memory ~ 238.5348129272461 MB
+ High-utility itemsets count : 493
+ Candidate count : 23800
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.28 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 8089 ms
+ Memory ~ 125.81658935546875 MB
+ High-utility itemsets count : 1246
+ Candidate count : 38271
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.27 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 12733 ms
+ Memory ~ 103.75911712646484 MB
+ High-utility itemsets count : 2875
+ Candidate count : 61185
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.26 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 19987 ms
+ Memory ~ 371.8580017089844 MB
+ High-utility itemsets count : 6406
+ Candidate count : 101925
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.25 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 32408 ms
+ Memory ~ 364.27748107910156 MB
+ High-utility itemsets count : 14122
+ Candidate count : 168679
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.24 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 55175 ms
+ Memory ~ 120.52643585205078 MB
+ High-utility itemsets count : 28432
+ Candidate count : 274814
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.23 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 81746 ms
+ Memory ~ 75.6551513671875 MB
+ High-utility itemsets count : 56398
+ Candidate count : 442226
+===================================================
+Finished processing ../../data/input/chess.txt with arg 0.22 and p_size 63

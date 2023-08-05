@@ -1,0 +1,156 @@
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 595 ms
+ Memory ~ 63.5028076171875 MB
+ High-utility itemsets count : 16
+ Candidate count : 22
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.010
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 655 ms
+ Memory ~ 70.45272827148438 MB
+ High-utility itemsets count : 16
+ Candidate count : 24
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.009
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 700 ms
+ Memory ~ 80.72962188720703 MB
+ High-utility itemsets count : 17
+ Candidate count : 29
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.008
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 806 ms
+ Memory ~ 95.3159408569336 MB
+ High-utility itemsets count : 20
+ Candidate count : 41
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.007
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 735 ms
+ Memory ~ 112.87608337402344 MB
+ High-utility itemsets count : 27
+ Candidate count : 62
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.006
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 883 ms
+ Memory ~ 142.3203353881836 MB
+ High-utility itemsets count : 33
+ Candidate count : 125
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.005
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1133 ms
+ Memory ~ 62.25712585449219 MB
+ High-utility itemsets count : 41
+ Candidate count : 228
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.004
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1295 ms
+ Memory ~ 66.18952941894531 MB
+ High-utility itemsets count : 41
+ Candidate count : 228
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.004
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1202 ms
+ Memory ~ 85.02269744873047 MB
+ High-utility itemsets count : 59
+ Candidate count : 624
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.003
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1723 ms
+ Memory ~ 149.1884765625 MB
+ High-utility itemsets count : 114
+ Candidate count : 2103
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.002
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3014 ms
+ Memory ~ 289.24365234375 MB
+ High-utility itemsets count : 434
+ Candidate count : 7694
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.001
+
+
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3676 ms
+ Memory ~ 278.8955078125 MB
+ High-utility itemsets count : 434
+ Candidate count : 7694
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0010
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3700 ms
+ Memory ~ 274.9287109375 MB
+ High-utility itemsets count : 525
+ Candidate count : 9237
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0009
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3752 ms
+ Memory ~ 307.20703125 MB
+ High-utility itemsets count : 655
+ Candidate count : 11195
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0008
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4026 ms
+ Memory ~ 341.1904296875 MB
+ High-utility itemsets count : 856
+ Candidate count : 13906
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0007
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4620 ms
+ Memory ~ 316.6147689819336 MB
+ High-utility itemsets count : 1110
+ Candidate count : 17860
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0006
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4267 ms
+ Memory ~ 359.0322265625 MB
+ High-utility itemsets count : 1538
+ Candidate count : 24056
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0005
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4135 ms
+ Memory ~ 362.669921875 MB
+ High-utility itemsets count : 2272
+ Candidate count : 35306
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0004
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3983 ms
+ Memory ~ 362.0205078125 MB
+ High-utility itemsets count : 2272
+ Candidate count : 35306
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0004
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4483 ms
+ Memory ~ 409.56103515625 MB
+ High-utility itemsets count : 3765
+ Candidate count : 60086
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0003
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 5825 ms
+ Memory ~ 430.3159408569336 MB
+ High-utility itemsets count : 7375
+ Candidate count : 144465
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0002
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 8764 ms
+ Memory ~ 484.84554290771484 MB
+ High-utility itemsets count : 22479
+ Candidate count : 1349566
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0001

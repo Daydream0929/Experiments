@@ -1,0 +1,490 @@
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 737 ms
+ Memory ~ 174.62953186035156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 1
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 902 ms
+ Memory ~ 50.125457763671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.99
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 938 ms
+ Memory ~ 91.96947479248047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.98
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 955 ms
+ Memory ~ 126.05833435058594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.97
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1038 ms
+ Memory ~ 212.3749771118164 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.96
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1044 ms
+ Memory ~ 103.40362548828125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.95
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1021 ms
+ Memory ~ 95.49267578125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.94
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1198 ms
+ Memory ~ 113.162109375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.93
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1138 ms
+ Memory ~ 142.82568359375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.92
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1219 ms
+ Memory ~ 177.87242889404297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.91
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1375 ms
+ Memory ~ 47.84124755859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.9
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1289 ms
+ Memory ~ 55.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.89
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1283 ms
+ Memory ~ 232.701171875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.88
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1280 ms
+ Memory ~ 115.54719543457031 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.87
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1292 ms
+ Memory ~ 128.04296875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.86
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1283 ms
+ Memory ~ 127.41856384277344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.85
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1381 ms
+ Memory ~ 84.54150390625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.84
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1353 ms
+ Memory ~ 66.6953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.83
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1384 ms
+ Memory ~ 177.03815460205078 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.82
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1400 ms
+ Memory ~ 169.9613494873047 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.81
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1470 ms
+ Memory ~ 87.28294372558594 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.8
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1461 ms
+ Memory ~ 211.46480560302734 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.79
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1547 ms
+ Memory ~ 74.13682556152344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.78
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1606 ms
+ Memory ~ 114.20023345947266 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.77
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1542 ms
+ Memory ~ 80.685546875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.76
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1645 ms
+ Memory ~ 150.6864242553711 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.75
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1491 ms
+ Memory ~ 153.67533111572266 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.74
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1518 ms
+ Memory ~ 89.73681640625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.73
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1700 ms
+ Memory ~ 59.16517639160156 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.72
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1611 ms
+ Memory ~ 139.5885467529297 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.71
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1607 ms
+ Memory ~ 172.77001953125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.7
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1722 ms
+ Memory ~ 121.4910888671875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.69
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1740 ms
+ Memory ~ 220.5438995361328 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.68
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1660 ms
+ Memory ~ 230.88780212402344 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.67
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1720 ms
+ Memory ~ 226.12841796875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.66
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1872 ms
+ Memory ~ 291.93006896972656 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.65
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1773 ms
+ Memory ~ 216.59667205810547 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.64
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1780 ms
+ Memory ~ 226.197265625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.63
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1931 ms
+ Memory ~ 290.14747619628906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.62
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2011 ms
+ Memory ~ 234.05078125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.61
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1920 ms
+ Memory ~ 373.4493713378906 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.6
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2105 ms
+ Memory ~ 363.5203857421875 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.59
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2138 ms
+ Memory ~ 361.736328125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.58
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2055 ms
+ Memory ~ 92.59918212890625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.57
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1995 ms
+ Memory ~ 362.02532958984375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.56
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2144 ms
+ Memory ~ 69.90386962890625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.55
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2190 ms
+ Memory ~ 386.74365234375 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.54
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2018 ms
+ Memory ~ 361.7578125 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.53
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2073 ms
+ Memory ~ 376.43212890625 MB
+ High-utility itemsets count : 0
+ Candidate count : 0
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.52
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2171 ms
+ Memory ~ 107.8740005493164 MB
+ High-utility itemsets count : 0
+ Candidate count : 24
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.51
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2750 ms
+ Memory ~ 486.97796630859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 122
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.5
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2488 ms
+ Memory ~ 350.11936950683594 MB
+ High-utility itemsets count : 0
+ Candidate count : 166
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.49
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2843 ms
+ Memory ~ 379.06864166259766 MB
+ High-utility itemsets count : 0
+ Candidate count : 243
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.48
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3441 ms
+ Memory ~ 420.1550598144531 MB
+ High-utility itemsets count : 0
+ Candidate count : 306
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.47
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3767 ms
+ Memory ~ 541.10791015625 MB
+ High-utility itemsets count : 0
+ Candidate count : 363
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.46
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3520 ms
+ Memory ~ 465.30262756347656 MB
+ High-utility itemsets count : 0
+ Candidate count : 373
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.45
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 3913 ms
+ Memory ~ 380.94944763183594 MB
+ High-utility itemsets count : 0
+ Candidate count : 423
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.44
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4386 ms
+ Memory ~ 403.3832092285156 MB
+ High-utility itemsets count : 0
+ Candidate count : 486
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.43
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 5050 ms
+ Memory ~ 432.0657653808594 MB
+ High-utility itemsets count : 0
+ Candidate count : 656
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.42
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 6220 ms
+ Memory ~ 623.76025390625 MB
+ High-utility itemsets count : 0
+ Candidate count : 878
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.41
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 8623 ms
+ Memory ~ 487.4408264160156 MB
+ High-utility itemsets count : 0
+ Candidate count : 1257
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.4
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 10153 ms
+ Memory ~ 624.9528198242188 MB
+ High-utility itemsets count : 0
+ Candidate count : 1721
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.39
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 14031 ms
+ Memory ~ 636.5450592041016 MB
+ High-utility itemsets count : 0
+ Candidate count : 2175
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.38
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 18405 ms
+ Memory ~ 689.0970764160156 MB
+ High-utility itemsets count : 0
+ Candidate count : 3041
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.37
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 27984 ms
+ Memory ~ 670.64453125 MB
+ High-utility itemsets count : 0
+ Candidate count : 4377
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.36
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 40582 ms
+ Memory ~ 775.005859375 MB
+ High-utility itemsets count : 0
+ Candidate count : 6593
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.35
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 60442 ms
+ Memory ~ 819.1476440429688 MB
+ High-utility itemsets count : 0
+ Candidate count : 10177
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.34
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 114581 ms
+ Memory ~ 823.9541015625 MB
+ High-utility itemsets count : 9
+ Candidate count : 16385
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.33
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 176898 ms
+ Memory ~ 972.46484375 MB
+ High-utility itemsets count : 171
+ Candidate count : 30842
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.32
+=============  FHM ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 343383 ms
+ Memory ~ 1292.197265625 MB
+ High-utility itemsets count : 1144
+ Candidate count : 65405
+===================================================
+Finished processing ../../data/input/connect.txt with arg 0.31

@@ -1,0 +1,77 @@
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1410 ms
+ Memory ~ 445.06978607177734 MB
+ High-utility itemsets count : 434
+ Candidate count : 7758
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0010 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1421 ms
+ Memory ~ 503.2707290649414 MB
+ High-utility itemsets count : 525
+ Candidate count : 9313
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0009 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1716 ms
+ Memory ~ 546.7737350463867 MB
+ High-utility itemsets count : 655
+ Candidate count : 11304
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0008 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1593 ms
+ Memory ~ 490.83424377441406 MB
+ High-utility itemsets count : 856
+ Candidate count : 14055
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0007 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 1970 ms
+ Memory ~ 436.36865234375 MB
+ High-utility itemsets count : 1110
+ Candidate count : 18098
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0006 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2035 ms
+ Memory ~ 513.703125 MB
+ High-utility itemsets count : 1538
+ Candidate count : 24467
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0005 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2740 ms
+ Memory ~ 529.9301147460938 MB
+ High-utility itemsets count : 2272
+ Candidate count : 36084
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0004 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2644 ms
+ Memory ~ 523.8371887207031 MB
+ High-utility itemsets count : 2272
+ Candidate count : 36084
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0004 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 2879 ms
+ Memory ~ 489.41796875 MB
+ High-utility itemsets count : 3765
+ Candidate count : 61813
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0003 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 4550 ms
+ Memory ~ 707.0066833496094 MB
+ High-utility itemsets count : 7375
+ Candidate count : 151948
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0002 and p_size 63
+=============  My ALGORITHM - SPMF 0.97e - STATS =============
+ Total time ~ 9785 ms
+ Memory ~ 607.5154571533203 MB
+ High-utility itemsets count : 22479
+ Candidate count : 1443737
+===================================================
+Finished processing ../../data/input/retail.txt with arg 0.0001 and p_size 63
